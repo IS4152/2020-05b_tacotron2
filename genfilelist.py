@@ -7,7 +7,8 @@ import os
 import random
 import re
 
-files = sorted(glob.glob('../emovdb/*/*/*'))
+# files = sorted(glob.glob('../emovdb/*/*/*'))
+files = sorted(glob.glob('/temp/e-liang/out/*/*/*'))
 
 dataLookup = {}
 with open('cmuarctic.data', 'r') as f:
