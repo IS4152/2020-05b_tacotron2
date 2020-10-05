@@ -7,5 +7,5 @@ XGPHOSTS="xgpa0 xgpa1 xgpa2 xgpa3 xgpa4 xgpb0 xgpb1 xgpb2 xgpc0 xgpc1 xgpc2 xgpc
 
 echo $XCNHOSTS $XGPHOSTS | tr ' ' '\n' | \
     parallel --timeout 5 \
-    'ssh -oBatchMode=yes -oStrictHostKeyChecking=no -q {} '"'"'nvidia-smi --format=csv,noheader --query-gpu=index,name,memory.free,memory.used,memory.total,utilization.gpu | awk '\'\\\'\''{print "{}, " $0}'\'\\\'\'' && nvcc --version | grep release && echo'\' 2> /dev/null #| \
-    # sort -nk2
+    'ssh -oBatchMode=yes -oStrictHostKeyChecking=no -q {} '"'"'nvidia-smi --format=csv,noheader --query-gpu=index,name,memory.free,memory.used,memory.total,utilization.gpu | awk '\'\\\'\''{print "{}	 " $0}'\'\\\'\'' && echo "{}	" $(nvcc --version | grep release) && echo {}'\' 2> /dev/null | \
+    sort
