@@ -7,7 +7,7 @@ import os
 import random
 import re
 
-# files = sorted(glob.glob('../emovdb/*/*/*'))
+# files = sorted(glob.glob('../../emovdb/*/*/*'))
 files = sorted(glob.glob('/temp/e-liang/out/*/*/*'))
 
 dataLookup = {}
@@ -34,5 +34,5 @@ cumulativeSplitLens = np.cumsum(splitLens)
 
 for (i, (_, name)) in enumerate(splits):
     filesToExport = transformedFiles[slice(cumulativeSplitLens[i] - splitLens[i], cumulativeSplitLens[i])]
-    with open(f'filelists/emovdb_audio_text_{name}_filelist.txt', 'w+') as f:
+    with open(f'../filelists/emovdb_audio_text_{name}_filelist.txt', 'w+') as f:
         f.writelines(filesToExport)
