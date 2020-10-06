@@ -1,3 +1,5 @@
+# Copypasta commands
+
 # Get summary of variations in dataset
 mediainfo */*/*.wav | grep -v name | grep -v Duration | grep -v Stream | grep -v 'File size' | sort | uniq
 

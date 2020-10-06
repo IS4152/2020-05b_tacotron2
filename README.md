@@ -18,16 +18,53 @@ Visit our [website] for audio samples using our published [Tacotron 2] and
 1. NVIDIA GPU + CUDA cuDNN
 
 ## Setup
-1. Download and extract the [LJ Speech dataset](https://keithito.com/LJ-Speech-Dataset/)
-2. Clone this repo: `git clone https://github.com/NVIDIA/tacotron2.git`
-3. CD into this repo: `cd tacotron2`
-4. Initialize submodule: `git submodule init; git submodule update`
-5. Update .wav paths: `sed -i -- 's,DUMMY,ljs_dataset_folder/wavs,g' filelists/*.txt`
-    - Alternatively, set `load_mel_from_disk=True` in `hparams.py` and update mel-spectrogram paths 
-6. Install [PyTorch 1.0]
-7. Install [Apex]
-8. Install python requirements or build docker image 
-    - Install python requirements: `pip install -r requirements.txt`
+
+### Set up repository
+
+1. Clone this repo: `git clone https://github.com/taneliang/tacotron2.git`
+1. CD into this repo: `cd tacotron2`
+1. Initialize submodule: `git submodule init; git submodule update`
+
+### Set up dependencies
+
+1. Check CUDA toolkit version: `nvcc --version`. NB: This is the toolkit version, which may be different from the version reported by nvidia-smi.
+1. Create Python 3 virtual environment: `python3 -m venv .env-cuda<CUDA version>`
+1. Activate venv, by running one of the following:
+    - `bash`/`sh`: `source .env-cudaxxx/bin/activate`
+    - `csh`: `source .env-cudaxxx/bin/activate.csh`
+    - `fish`: `source .env-cudaxxx/bin/activate.fish`
+1. Install [PyTorch 1.0]. As the time this was written, these are the instructions:
+    - CUDA 10.0: `pip install torch==1.4.0+cu100 torchvision==0.5.0+cu100 -f https://download.pytorch.org/whl/cu100/torch_stable.html`
+    - CUDA 10.1: `pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html`
+    - CUDA 10.2 or 11.0: `pip install torch torchvision`
+1. Install [Apex]:
+    ```sh
+    pushd ..
+    git clone https://github.com/NVIDIA/apex
+    cd apex
+    pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
+    popd
+    ```
+1. Install Python requirements: `pip install -r requirements.txt`
+
+### Set up data for training
+
+If running with access to NUS School of Computing resources (e.g. Sunfire, compute cluster), you can copy the training dataset from the `cgpb0` compute cluster machine:
+
+```sh
+scripts/copy_dataset.sh
+```
+
+Otherwise, you can set up the data from scratch:
+
+1. Download the [EmoV-DB dataset](https://github.com/numediart/EmoV-DB)
+1. Normalize it: `ls */*/*.wav | xargs -I % sh -c 'mkdir -p ../out/$(dirname %) && sox % --rate 16000 -c 1 -b 32 ../out/%'` 
+1. Generate filelist files:
+    ```sh
+    cd scripts
+    ./genfilelist.py
+    cd ..
+    ```
 
 ## Training
 1. `python train.py --output_directory=outdir --log_directory=logdir`
