@@ -2,7 +2,7 @@ import os
 import time
 import argparse
 import math
-from numpy import finfo
+from numpy import finfo, array
 
 import torch
 from distributed import apply_gradient_allreduce
@@ -15,7 +15,10 @@ from data_utils import TextMelLoader, TextMelCollate
 from loss_function import Tacotron2Loss
 from logger import Tacotron2Logger
 from hparams import create_hparams
+from text import text_to_sequence
 
+import sys
+sys.path.append('waveglow/')
 
 def reduce_tensor(tensor, n_gpus):
     rt = tensor.clone()
@@ -117,6 +120,17 @@ def save_checkpoint(model, optimizer, learning_rate, iteration, filepath):
                 'optimizer': optimizer.state_dict(),
                 'learning_rate': learning_rate}, filepath)
 
+def log_audio(model: Tacotron2, iteration: int, logger: Tacotron2Logger, waveglow):
+    text = "Does it work yet?"
+    sequence = array(text_to_sequence(text, ['english_cleaners']))[None, :]
+    sequence = torch.autograd.Variable(
+        torch.from_numpy(sequence)).cuda().long()
+
+    mel_outputs, mel_outputs_postnet, _, alignments = model.inference(sequence)
+    with torch.no_grad():
+        audio = waveglow.infer(mel_outputs_postnet, sigma=0.666)
+
+    logger.add_audio(text, audio[0].data.cpu(), global_step=iteration, sample_rate=hparams.sampling_rate)
 
 def validate(model, criterion, valset, iteration, batch_size, n_gpus,
              collate_fn, logger, distributed_run, rank):
@@ -161,6 +175,8 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
     """
     if hparams.distributed_run:
         init_distributed(hparams, n_gpus, rank, group_name)
+    # else:
+    #     torch.cuda.set_device('cuda:0')
 
     torch.manual_seed(hparams.seed)
     torch.cuda.manual_seed(hparams.seed)
@@ -179,6 +195,12 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
         model = apply_gradient_allreduce(model)
 
     criterion = Tacotron2Loss()
+
+    waveglow_path = 'waveglow_256channels_universal_v5.pt'
+    waveglow = torch.load(waveglow_path)['model']
+    waveglow.cuda().eval().float()
+    for k in waveglow.convinv:
+        k.float()
 
     logger = prepare_directories_and_logger(
         output_directory, log_directory, rank)
@@ -251,6 +273,9 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                         output_directory, "checkpoint_{}".format(iteration))
                     save_checkpoint(model, optimizer, learning_rate, iteration,
                                     checkpoint_path)
+
+                    # if not is_overflow and (iteration % 2 == 0):
+                    log_audio(model, iteration, logger, waveglow)
 
             iteration += 1
 
