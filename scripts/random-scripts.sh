@@ -8,3 +8,5 @@ pcregrep -M '^Complete.+?\n.+?44\.1 kHz' samplingrates.txt | grep Complete | cut
 
 # Normalize files
 ls */*/*.wav | xargs -I % sh -c 'mkdir -p ../out/$(dirname %) && sox % --rate 16000 -c 1 -b 32 ../out/%'
+# Actually LJ Speech is 16 bit
+ls */*/*.wav | xargs -I % sh -c 'mkdir -p ../out/$(dirname %) && sox % --rate 16000 -c 1 -b 16 ../out/%'
