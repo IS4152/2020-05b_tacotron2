@@ -57,11 +57,16 @@ scripts/copy_dataset.sh
 
 Otherwise, you can set up the data from scratch:
 
-1. Download the [EmoV-DB dataset](https://github.com/numediart/EmoV-DB)
-1. Normalize it: `ls */*/*.wav | xargs -I % sh -c 'mkdir -p ../out/$(dirname %) && sox % --rate 16000 -c 1 -b 32 ../out/%'` 
+1. EmoV-DB:
+    1. Download the [EmoV-DB dataset](https://github.com/numediart/EmoV-DB)
+    1. Normalize it: `ls */*/*.wav | xargs -I % sh -c 'mkdir -p ../out/$(dirname %) && sox % --rate 16000 -c 1 -b 16 ../out/%'` 
+1. LJSpeech:
+    1. Download the [LJSpeech dataset](https://keithito.com/LJ-Speech-Dataset/).
+    1. Normalize it: `mkdir ../../LJSpeech-1.1/wavs && ls *.wav | xargs -I % sh -c 'sox % --rate 16000 -c 1 -b 16 ../../LJSpeech-1.1/wavs/%'`
 1. Generate filelist files:
     ```sh
     cd scripts
+    vim ./genfilelist.py # Configure the script
     ./genfilelist.py
     cd ..
     ```
