@@ -1,393 +1,393 @@
-/temp/e-liang/LJSpeech-1.1/LJ013-0172.wav|were found in the butler's pantry, used by Courvoisier.
-/temp/e-liang/out/sam/aud_neut/neutral_169-196_0182.wav|This time he did not yap for mercy.
-/temp/e-liang/LJSpeech-1.1/LJ038-0052.wav|testified regarding the arrest of Oswald, as did the various police officers who participated in the fight.
-/temp/e-liang/LJSpeech-1.1/LJ014-0005.wav|but too late to give substantial aid.
-/temp/e-liang/out/bea/amused/amused_169-196_0183.wav|And the air was growing chilly.
-/temp/e-liang/LJSpeech-1.1/LJ021-0199.wav|In our efforts for recovery
-/temp/e-liang/LJSpeech-1.1/LJ032-0194.wav|the Commission was unable to reach any firm conclusion as to when the fibers were caught in the rifle.
-/temp/e-liang/out/jenie/aud_neutral/neutral_57-84_0066.wav|He saw Jeanne falter for a moment.
-/temp/e-liang/LJSpeech-1.1/LJ034-0113.wav|The autopsy report indicated an estimated weight of one hundred fifty pounds.
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_309-336_0332.wav|Unconsciously, our yells and exclamations yielded to this rhythm.
-/temp/e-liang/out/jenie/aud_anger/anger_253-280_0277.wav|McCoy found a stifling, poisonous atmosphere in the pent cabin.
-/temp/e-liang/LJSpeech-1.1/LJ017-0259.wav|Eight were arraigned at the same time: six Spaniards, Leon, Blanco, Duranno, Santos, and Marsolino;
-/temp/e-liang/LJSpeech-1.1/LJ038-0044.wav|except that they did not hear Oswald say, quote, It's all over now, end quote.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_197-224_0210.wav|Its diameter was not more than two hundred yards.
-/temp/e-liang/LJSpeech-1.1/LJ021-0068.wav|to a level of sustained profits within one year from the inauguration of N.R.A.
-/temp/e-liang/LJSpeech-1.1/LJ026-0026.wav|As in the liquefaction of gases, there is a "critical point" at which the substance under experiment is neither gaseous nor liquid.
-/temp/e-liang/LJSpeech-1.1/LJ017-0242.wav|Leon wished to make every one on board share and share alike, so as to implicate the innocent with the guilty;
-/temp/e-liang/LJSpeech-1.1/LJ013-0104.wav|He found them at length residing at the latter place, one as a landed proprietor, the other as a publican.
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_393-420_0411.wav|It will break our hearts and our backs to hoist anchor by hand.
-/temp/e-liang/LJSpeech-1.1/LJ010-0034.wav|Thurtell and Hunt followed in the footsteps of Billings, Wood, and Catherine Hayes.
-/temp/e-liang/LJSpeech-1.1/LJ006-0181.wav|It was the same old story -- evil constantly in the ascendant, the least criminal at the mercy of the most depraved.
-/temp/e-liang/LJSpeech-1.1/LJ002-0277.wav|There were fifteen rooms of various sizes, and as the numbers imprisoned rarely exceeded five-and-twenty, the place was never overcrowded,
-/temp/e-liang/LJSpeech-1.1/LJ010-0251.wav|Francis was sentenced to be hanged, decapitated, and quartered,
-/temp/e-liang/LJSpeech-1.1/LJ035-0019.wav|drove to the northwest corner of Elm and Houston, and parked approximately ten feet from the traffic signal.
-/temp/e-liang/LJSpeech-1.1/LJ030-0013.wav|David F. Powers of the President's staff later stated that when the President asked for his assessment of the day's activities, Powers replied
-/temp/e-liang/out/josh/aud_neut/neutral_85-112_0095.wav|A big canvas tent was the first thing to come within his vision.
-/temp/e-liang/LJSpeech-1.1/LJ008-0039.wav|By practice the art is much improved, and there is no part of the world in which villains are hanged in so neat a manner, and with so little ceremony.
-/temp/e-liang/LJSpeech-1.1/LJ042-0077.wav|Quote, I Lee Harvey Oswald do hereby request that my present citizenship in the United States of America, be revoked.
-/temp/e-liang/LJSpeech-1.1/LJ032-0113.wav|Based on the above evidence, the Commission concluded that Oswald purchased the rifle found on the sixth floor of the Depository Building.
-/temp/e-liang/out/bea/neutral/Neutral_85-112_0092.wav|He went down in midstream, searching the shadows of both shores.
-/temp/e-liang/LJSpeech-1.1/LJ020-0021.wav|Into a hollow, like a crater in the middle of the flour, empty your sponge-bowl, and work the flour down into it.
-/temp/e-liang/LJSpeech-1.1/LJ034-0066.wav|that Oswald was at the window from which the shots were fired, although the prints do not establish the exact time he was there.
-/temp/e-liang/out/josh/aud_sleep/sleepiness_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
-/temp/e-liang/out/sam/aud_disgust/disgust_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
-/temp/e-liang/out/bea/anger/anger_169-196_0152.wav|Philip thrust himself against it and entered.
-/temp/e-liang/LJSpeech-1.1/LJ032-0109.wav|Both names were found to be fictitious.
-/temp/e-liang/out/jenie/aud_anger/anger_281-308_0296.wav|Bassett was a fastidious man.
-/temp/e-liang/out/bea/sleepiness/sleepiness_225-252_0250.wav|He had observed the business life of Hawaii and developed a vaulting ambition.
-/temp/e-liang/out/sam/aud_neut/neutral_169-196_0172.wav|Gregson had left the outer door slightly ajar.
-/temp/e-liang/LJSpeech-1.1/LJ004-0022.wav|The executive, although harassed by internal commotion and foreign war, was not entirely callous to the crying need for amelioration in jails.
-/temp/e-liang/LJSpeech-1.1/LJ023-0034.wav|The American people have learned from the depression.
-/temp/e-liang/out/bea/anger/anger_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
-/temp/e-liang/LJSpeech-1.1/LJ040-0124.wav|This continued despite the efforts of the school authorities and, to a lesser extent, of his mother to have him return to school.
-/temp/e-liang/LJSpeech-1.1/LJ030-0195.wav|Observing his blood-covered chest as he was pulled into his wife's lap, Governor Connally believed himself mortally wounded.
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_57-84_0063.wav|Yes, it was a man who asked, a stranger.
-/temp/e-liang/LJSpeech-1.1/LJ009-0243.wav|Other cases might be quoted,
-/temp/e-liang/LJSpeech-1.1/LJ010-0244.wav|leveled a pistol at the Queen, and fired. He was so close to the carriage that the smoke of his pistol enveloped the face of Colonel Wylde,
-/temp/e-liang/LJSpeech-1.1/LJ029-0002.wav|Chapter two. The Assassination: Part one.
-/temp/e-liang/out/sam/aud_am/amused_57-84_0073.wav|The promoter's eyes were heavy, with little puffy bags under them.
-/temp/e-liang/LJSpeech-1.1/LJ026-0129.wav|Sooner or later the starch grains are changed into a kind of sugar (glucose), which, unlike starch, dissolves in the sap
-/temp/e-liang/LJSpeech-1.1/LJ046-0206.wav|and at the working level with personnel of the field offices of the various agencies. The Service frequently participated
-/temp/e-liang/LJSpeech-1.1/LJ003-0314.wav|the surgeon should see all prisoners, whether ill or well, once a week, and take general charge of the infirmaries.
-/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0261.wav|I have been doubly baptized.
-/temp/e-liang/LJSpeech-1.1/LJ016-0109.wav|but not till they had had an exciting chase down the street.
-/temp/e-liang/out/bea/sleepiness/sleepiness_85-112_0088.wav|He made sure that the magazine was loaded, and resumed his paddling.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_85-112_0110.wav|Much, replied Jeanne, as tersely.
-/temp/e-liang/LJSpeech-1.1/LJ015-0314.wav|He was in person a short, square-built man of gentlemanly address, sharp and shrewd in conversation and manner.
-/temp/e-liang/LJSpeech-1.1/LJ046-0245.wav|Other agencies occasionally provided information to the Secret Service concerning potentially dangerous political groups.
-/temp/e-liang/LJSpeech-1.1/LJ022-0130.wav|It is time to provide a smashing answer for those cynical men who say that a democracy cannot be honest and efficient.
-/temp/e-liang/LJSpeech-1.1/LJ015-0299.wav|and the circumstances were deemed sufficiently suspicious to warrant the arrest of the gentlemen at Yarmouth on a charge of forgery and conspiracy.
-/temp/e-liang/LJSpeech-1.1/LJ047-0061.wav|This assignment was given to Agent James P. Hosty, Jr. of the Dallas office upon Fain's retirement.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_1-28_0016.wav|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
-/temp/e-liang/LJSpeech-1.1/LJ007-0223.wav|The prison officials appear to be on the side of the inspectors, to the great dissatisfaction of the corporation, who claimed the full allegiance and support of its servants.
-/temp/e-liang/LJSpeech-1.1/LJ035-0144.wav|Oswald's departure from building.
-/temp/e-liang/LJSpeech-1.1/LJ048-0157.wav|Agent Lawson agreed that such a procedure would assist him and other agents in fulfilling their responsibilities as advance agents.
-/temp/e-liang/LJSpeech-1.1/LJ031-0085.wav|Since the Dallas doctors directed all their efforts to controlling the massive bleeding caused by the head wound, and to reconstructing an airway to his lungs,
-/temp/e-liang/LJSpeech-1.1/LJ036-0025.wav|McWatters was sure that he left the checkpoint on time
-/temp/e-liang/LJSpeech-1.1/LJ035-0138.wav|Shelley and Lovelady, at a fast walk or trot, turned west into the railroad yards and then to the west side of the Depository Building.
-/temp/e-liang/out/bea/anger/anger_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
-/temp/e-liang/LJSpeech-1.1/LJ049-0187.wav|These proposals included suggestions to locate exclusive responsibility for all phases of the work
-/temp/e-liang/out/jenie/aud_anger/anger_141-168_0151.wav|And MacDougall was beyond the trail, with three weeks to spare.
-/temp/e-liang/LJSpeech-1.1/LJ032-0085.wav|The Hidell signature on the notice of classification was in the handwriting of Oswald.
-/temp/e-liang/LJSpeech-1.1/LJ042-0059.wav|Despite this commitment to the Soviet Union
-/temp/e-liang/LJSpeech-1.1/LJ011-0199.wav|Meanwhile, a second letter turned up from Wakefield at Calais, in which he assured Mrs. Turner that Miss Turner was fondly attached to him,
-/temp/e-liang/LJSpeech-1.1/LJ011-0055.wav|Edmund Angelini, to take Fauntleroy's place.
-/temp/e-liang/LJSpeech-1.1/LJ007-0097.wav|and not the least of the good services rendered by the new inspectors was their inquiry into the status of these unfortunate people, and their recommendation to improve it.
-/temp/e-liang/LJSpeech-1.1/LJ029-0173.wav|beginning on September thirteen, when the Times-Herald announced in a front page article that President Kennedy was planning a brief one-day tour of four Texas cities
-/temp/e-liang/LJSpeech-1.1/LJ012-0231.wav|although it included statements that were improbable and unsubstantiated.
-/temp/e-liang/LJSpeech-1.1/LJ006-0057.wav|Not only were the wards thus needlessly crammed, and for no reason but the niggardliness of the corporation which refused a proper supply of bedding
-/temp/e-liang/LJSpeech-1.1/LJ010-0269.wav|whose description, as given by his father to the police,
-/temp/e-liang/LJSpeech-1.1/LJ031-0173.wav|Mrs. Kennedy alternated between watching them and waiting outside.
-/temp/e-liang/LJSpeech-1.1/LJ016-0116.wav|The doors, through incomplete knowledge of prison needs, were not, as now, sheeted with iron.
-/temp/e-liang/out/sam/aud_disgust/Disgust_29-56_0053.wav|Suddenly his fingers closed tightly over the handkerchief.
-/temp/e-liang/LJSpeech-1.1/LJ002-0337.wav|could not be made even to look clean while there was no obligation of personal cleanliness on individuals, who often came into the prison in filthy rags.
-/temp/e-liang/LJSpeech-1.1/LJ011-0271.wav|Mr. Gee went in the coach sent for him, and alighted at twenty-seven, York Street, West, Commercial Road.
-/temp/e-liang/out/bea/neutral/neutral_141-168_0147.wav|A moment before he was intoxicated by a joy that was almost madness.
-/temp/e-liang/LJSpeech-1.1/LJ018-0064.wav|afterwards in the British German Legion raised for the Crimean War.
-/temp/e-liang/out/sam/aud_am/amused_141-168_0159.wav|They look as though he had been drumming a piano all his life.
-/temp/e-liang/LJSpeech-1.1/LJ050-0231.wav|Before the assassination the Secret Service infrequently requested other Federal law enforcement agencies to provide personnel
-/temp/e-liang/out/jenie/aud_anger/anger_337-364_0348.wav|They only lifted seven hundred and fifty.
-/temp/e-liang/LJSpeech-1.1/LJ038-0067.wav|As Oswald, handcuffed, was led from the theatre, he was, according to McDonald, quote,
-/temp/e-liang/out/josh/aud_neut/neutral_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
-/temp/e-liang/LJSpeech-1.1/LJ007-0136.wav|But there were others remediable under a better system of management.
-/temp/e-liang/LJSpeech-1.1/LJ012-0237.wav|A very painful scene occurred in Newgate when the news of his escape from death was imparted to May.
-/temp/e-liang/LJSpeech-1.1/LJ010-0303.wav|According to Fauntleroy's own case, he found at once that the firm was heavily involved,
-/temp/e-liang/LJSpeech-1.1/LJ008-0184.wav|Precautions had been taken by the erection of barriers, and the posting of placards at all the avenues to the Old Bailey, on which was printed,
-/temp/e-liang/out/sam/aud_disgust/Disgust_1-28_0010.wav|I'm playing a single hand in what looks like a losing game.
-/temp/e-liang/LJSpeech-1.1/LJ037-0019.wav|The next day Scoggins viewed a lineup of four persons and identified Oswald as the man whom he had seen the day before at tenth and Patton.
-/temp/e-liang/LJSpeech-1.1/LJ036-0001.wav|Report of the President's Commission on the Assassination of President Kennedy. The Warren Commission Report. By The President's Commission on the Assassination of President Kennedy.
-/temp/e-liang/LJSpeech-1.1/LJ037-0267.wav|to the exclusion of all other weapons,
-/temp/e-liang/LJSpeech-1.1/LJ007-0183.wav|traversing where it was possible the statements of the inspectors, and offering explanation and palliation of such evils as could not be denied.
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_449-476_0458.wav|The stout wood was crushed like an eggshell.
-/temp/e-liang/LJSpeech-1.1/LJ032-0049.wav|The specific rifle shipped against the order had been received by Klein's from Crescent on February twenty-one, nineteen sixty-three.
-/temp/e-liang/out/sam/aud_anger/anger_141-168_0167.wav|I was near the cabin, and saw you.
-/temp/e-liang/LJSpeech-1.1/LJ032-0231.wav|and other details in the picture.
-/temp/e-liang/LJSpeech-1.1/LJ025-0015.wav|in which the question is treated with that comprehensiveness of knowledge and clear critical judgment which characterize his writings
-/temp/e-liang/LJSpeech-1.1/LJ046-0241.wav|PRS required a more direct indication of a threat to the President, and that there was no such indication until the President's scheduled visit to that area became known.
-/temp/e-liang/LJSpeech-1.1/LJ027-0071.wav|But much more remains which is not only suggestive, but demonstrative of such origin.
-/temp/e-liang/LJSpeech-1.1/LJ033-0129.wav|Mrs. Randle saw the bag fleetingly
-/temp/e-liang/LJSpeech-1.1/LJ013-0049.wav|A notorious miser, Robert Smith, had recently died in Seven Dials, where he had amassed a considerable fortune.
-/temp/e-liang/LJSpeech-1.1/LJ006-0286.wav|Thus, when the inspectors visited there were twenty-three strangers, and only twenty-eight prisoners.
-/temp/e-liang/LJSpeech-1.1/LJ005-0019.wav|refuted by abundant evidence, and having no foundation whatever in truth.
-/temp/e-liang/out/jenie/aud_neutral/neutral_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
-/temp/e-liang/out/bea/sleepiness/sleepiness_253-280_0266.wav|They handled two men already, both grub-thieves.
-/temp/e-liang/out/sam/aud_disgust/Disgust_1-28_0016.wav|There's Fort Churchill, a rifle-shot beyond the ridge, asleep.
-/temp/e-liang/out/josh/aud_neut/neutral_113-140_0125.wav|He was determined now to maintain a more certain hold upon himself.
-/temp/e-liang/LJSpeech-1.1/LJ018-0379.wav|Resolute, determined-looking men, their courage broke down in confinement.
-/temp/e-liang/LJSpeech-1.1/LJ029-0153.wav|Under standard procedures, the responsibility for watching the windows of buildings was shared by local police stationed along the route
-/temp/e-liang/out/jenie/aud_neutral/neutral_57-84_0081.wav|What if she did not come to the rock.
-/temp/e-liang/LJSpeech-1.1/LJ013-0047.wav|A clergyman nearly a century later followed in the steps of Dr. Dodd, but did not under more humane laws lose his life.
-/temp/e-liang/LJSpeech-1.1/LJ038-0168.wav|There were no eyewitnesses, although a fourteen-year-old boy in a neighboring house claimed that immediately after the shooting
+/temp/e-liang/LJSpeech-1.1/wavs/LJ007-0166.wav|Strong as were the foregoing remarks, the inspectors wound up their report in still more trenchant language
+/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0225.wav|I was brought up the way most girls in Hawaii are brought up.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ041-0197.wav|as excuses for his difficulties in getting along in the world, which were usually caused by entirely different factors.
+/temp/e-liang/out/jenie/aud_neutral/neutral_141-168_0160.wav|You want to go over and see his gang throw dirt.
+/temp/e-liang/out/jenie/aud_neutral/neutral_421-448_0423.wav|McVeigh when he returns from a trip to Honolulu.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ042-0091.wav|The Soviet authorities finally permitted Oswald to remain in their country.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ020-0065.wav|Two cups of fresh milk slightly warmed.
+/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0198.wav|Sometimes her dreams were filled with visions.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ021-0197.wav|of referring without rhyme or reason to the Constitution as a means of preventing its accomplishment, thus creating the general impression
+/temp/e-liang/out/sam/aud_sleep/sleepiness_393-420_0393.wav|Already he had begun borrowing from the banks.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0206.wav|At Godmanchester there was no jail, but a cage to secure prisoners till they could be taken before a magistrate.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ027-0168.wav|Now this is the permanent, mature condition of many amphibians,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ050-0276.wav|As has been pointed out, the Commission has not resolved all the proposals which could be made. The Commission nevertheless is confident that,
+/temp/e-liang/out/bea/neutral/Neutral_85-112_0094.wav|He had barely entered this when he saw the glow of a fire.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ037-0031.wav|He found two empty shells in the bushes and gave them to Patrolman J. M. Poe who arrived on the scene shortly after the shooting.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ007-0004.wav|although their ministrations were occasionally extended to the male side.
+/temp/e-liang/out/sam/aud_anger/anger_421-448_0430.wav|Nevertheless we found ourselves once more in the high seat of abundance.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ027-0054.wav|Since backboned animals are best known to most readers, they may be taken as an illustration.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0266.wav|They none of them spoke much English except Leon, commonly called Lyons.
+/temp/e-liang/out/jenie/aud_anger/anger_253-280_0257.wav|They are coming ashore, whoever they are.
+/temp/e-liang/out/josh/aud_neut/neutral_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/temp/e-liang/out/bea/sleepiness/sleepiness_225-252_0251.wav|I may manage to freight a cargo back as well.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ031-0106.wav|whose major wound fell within Dr. Shaw's area of specialization.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0256.wav|Still greater were the differences with regard to employment. The various authorities held widely different opinions as to what constituted hard labor.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0314.wav|The separation of prisoners in cells duly certified by the inspectors was insisted upon,
+/temp/e-liang/out/bea/amused/amused_169-196_0194.wav|He drank of the water cautiously.
+/temp/e-liang/out/bea/sleepiness/sleepiness_85-112_0089.wav|The nightglow was treacherous to shoot by.
+/temp/e-liang/out/sam/aud_anger/anger_141-168_0155.wav|Won't you draw up, gentlemen.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ008-0262.wav|and with them indeed this dispatch amounted to undue precipitancy.
+/temp/e-liang/out/jenie/aud_anger/anger_85-112_0112.wav|He was wounded in the arm.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ029-0148.wav|for controlling the crowds and traffic, watching the overpasses, and providing motorcycle escort.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ014-0090.wav|On the Sunday Mrs. Manning roasted a goose at this same kitchen fire, and ate it with relish in the afternoon.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ015-0147.wav|Leading social and artistic personages were to be met with at his house, and his hospitality was far famed.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0190.wav|After this came the charge of administering oil of vitriol, which failed, as has been described.
+/temp/e-liang/out/bea/sleepiness/sleepiness_337-364_0356.wav|You don't catch me at any such foolishness.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ044-0186.wav|he would not give him a visa, end quote, and that, quote,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0024.wav|He objected to the instruction of prisoners in reading and writing.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ021-0096.wav|under the able and energetic leadership of General Johnson.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ032-0045.wav|This price included nineteen dollars, ninety-five cents for the rifle and the scope, and one dollar, fifty cents for postage and handling.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ036-0095.wav|but the Commission concluded that this man was not Lee Harvey Oswald,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ037-0019.wav|The next day Scoggins viewed a lineup of four persons and identified Oswald as the man whom he had seen the day before at tenth and Patton.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ050-0169.wav|and that many strongly held views are advanced in resistance to any suggestion that an effort be made to impose any degree of coordination.
+/temp/e-liang/out/jenie/aud_neutral/neutral_85-112_0091.wav|His blood grew hot with rage at the thought.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ013-0115.wav|Of this class was the ingenious yet peculiarly simple robbery effected at the house of Lord Fitzgerald in Belgrave Square.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ031-0120.wav|While the second operation was in progress,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ009-0073.wav|The forger has never moved.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ022-0049.wav|The simple fact is that many million more people have private work today than two years ago today or one year ago today,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ006-0182.wav|Under the reckless contempt for regulations,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ021-0178.wav|Has England gone back to the gold standard today?
+/temp/e-liang/LJSpeech-1.1/wavs/LJ047-0013.wav|Finally, the Commission has reviewed the complete files on Oswald, as they existed at the time of the assassination, of the Department of State,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0268.wav|should be strictly prohibited, "as a stimulating luxury inconsistent with any notion of strict discipline and the due pressure of just punishment."
+/temp/e-liang/out/josh/aud_am/amused_225_252_0225.wav|I was brought up the way most girls in Hawaii are brought up.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ025-0055.wav|by the employment of instruments of precision for the measurement of the physical forces which are at work in the living economy.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ028-0284.wav|When he found that Darius did indeed value it highly, he considered further with himself how he might make the deed his own, and be the man to take Babylon.
+/temp/e-liang/out/jenie/aud_am/amused_309-336_0329.wav|Ah, indeed.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ042-0094.wav|The Soviet authorities denied Oswald permission
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0143.wav|which followed close on its heels, although in that the verdict of "Not Guilty" was excusable, as the evidence was entirely circumstantial.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ028-0438.wav|However, it is possible that the hanging gardens existed only in the imagination of the Greek writers,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ048-0229.wav|The statements of the agents involved are supported by statements of members of the Fort Worth press who accompanied or observed them
+/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0329.wav|Ah, indeed.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ025-0128.wav|can be distinguished from those acts of contraction following upon stimuli, which are called "reflex" in animals.
+/temp/e-liang/out/sam/aud_sleep/sleepiness_281-308_0292.wav|Here, in the midmorning, the first casualty occurred.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ007-0075.wav|as effectually to rebuke and abash the profane spirit of the more insolent and daring of the criminals.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ020-0080.wav|Pinch the dough hard to stop the mouths of these cavities,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ016-0302.wav|He, after failing once to cut the rope, made a second attempt more successfully, and the body of Müller disappeared from view.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0062.wav|Experience has since shown that in some respects these plans are defective, especially in the placing of the governor's residence in the center of the prison.
+/temp/e-liang/out/josh/aud_am/amused_225_252_0234.wav|Why, the average review is more nauseating than cod liver oil.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ024-0092.wav|There is no substantial groups within the Congress or outside it who are agreed on any single amendment.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ040-0111.wav|with no behavior or truancy problems.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0204.wav|who said that he feared it was only too true that secret poisoning was at that time very rife in the metropolis.
+/temp/e-liang/out/bea/anger/anger_57-84_0083.wav|A shadow was creeping over Pierre's eyes.
 /temp/e-liang/out/jenie/aud_am/amused_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
-/temp/e-liang/out/bea/sleepiness/sleepiness_449-476_0474.wav|I sailed third mate in the little Vampire before you were born.
-/temp/e-liang/LJSpeech-1.1/LJ016-0169.wav|As more humane principles were introduced into prison management,
-/temp/e-liang/LJSpeech-1.1/LJ034-0174.wav|appeared uncomfortable for one, and secondly, he wasn't watching. he didn't look like he was watching for the parade.
-/temp/e-liang/LJSpeech-1.1/LJ018-0378.wav|In Newgate the 'Lennie' mutineers were extremely well behaved.
-/temp/e-liang/out/josh/aud_neut/neutral_1-28_0018.wav|There was a change now.
-/temp/e-liang/LJSpeech-1.1/LJ003-0341.wav|by a new jail built on the outskirts, as Holloway eventually was, and permitted itself to be altogether countered
-/temp/e-liang/out/jenie/aud_anger/anger_141-168_0159.wav|They look as though he had been drumming a piano all his life.
-/temp/e-liang/LJSpeech-1.1/LJ018-0128.wav|Brown took several sheets, and then was detected by Brewer, a fellow-workman of superior grade,
-/temp/e-liang/LJSpeech-1.1/LJ001-0079.wav|Caslon's type is clear and neat, and fairly well designed;
-/temp/e-liang/LJSpeech-1.1/LJ012-0253.wav|A further discovery was made in an osier bed near Cold Harbor Lane, Camberwell,
-/temp/e-liang/LJSpeech-1.1/LJ031-0022.wav|Charles R. Baxter, Robert N. McClelland, Ronald C. Jones; the chief neurologist, Dr. William Kemp Clark;
-/temp/e-liang/LJSpeech-1.1/LJ019-0309.wav|The main object of this act was to compass that uniformity in discipline and treatment generally
-/temp/e-liang/LJSpeech-1.1/LJ017-0135.wav|Dove, a fiendish brute, found from the evidence in that case that he could kill his wife, whom he hated,
-/temp/e-liang/LJSpeech-1.1/LJ023-0040.wav|We are at a crisis in our ability to proceed with that protection.
-/temp/e-liang/LJSpeech-1.1/LJ017-0018.wav|was ignorant of the destructive character of the powders, probably arsenic, which she administered.
-/temp/e-liang/out/jenie/aud_anger/anger_369-392_0376.wav|Your price, my son, is just about thirty per week.
-/temp/e-liang/out/bea/sleepiness/sleepiness_337-364_0345.wav|She was trying to pass the apron string around him.
-/temp/e-liang/out/sam/aud_anger/anger_29-56_0049.wav|Gregson was asleep when he re-entered the cabin.
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_337-360_0355.wav|A burst of laughter was his reward.
-/temp/e-liang/LJSpeech-1.1/LJ005-0104.wav|The progress of improvement was certainly extremely slow.
-/temp/e-liang/LJSpeech-1.1/LJ030-0087.wav|The Vice-Presidential automobile, a four-door Lincoln convertible obtained locally for use in the motorcade,
-/temp/e-liang/LJSpeech-1.1/LJ030-0105.wav|Communications in the motorcade.
-/temp/e-liang/LJSpeech-1.1/LJ012-0045.wav|he put another lady, with whom he was on intimate terms.
-/temp/e-liang/LJSpeech-1.1/LJ027-0050.wav|Homology thus means identity of structure which is the result of identity of parentage. It is the stamp of heredity.
-/temp/e-liang/LJSpeech-1.1/LJ010-0202.wav|Its sworn members, known only to Oxford, and all of them mere shadows,
-/temp/e-liang/LJSpeech-1.1/LJ028-0009.wav|At first, paying little heed to you, she hesitates and glances anxiously about the desert as if in search of an enemy.
-/temp/e-liang/LJSpeech-1.1/LJ006-0268.wav|Women saw men if they merely pretended to be wives; even boys were visited by their sweethearts.
-/temp/e-liang/out/bea/sleepiness/sleepiness_309-336_0331.wav|Poor little Crooked-Leg was terribly scared.
-/temp/e-liang/LJSpeech-1.1/LJ008-0180.wav|Among the dead was a sailor lad whom no one knew;
-/temp/e-liang/LJSpeech-1.1/LJ022-0010.wav|At different points on the coast where I often visit they build great seagoing ships.
-/temp/e-liang/LJSpeech-1.1/LJ014-0233.wav|he shot an old soldier who had attempted to detain him. He was convicted and executed.
-/temp/e-liang/LJSpeech-1.1/LJ005-0050.wav|and in moral and religious duty, and which after a time sought to provide them with suitable situations, was supported entirely out of the funds of the Society.
-/temp/e-liang/LJSpeech-1.1/LJ001-0069.wav|This type was introduced into England by Wynkyn de Worde, Caxton's successor,
-/temp/e-liang/LJSpeech-1.1/LJ016-0252.wav|Possibly such changes may be introduced into the method of execution
-/temp/e-liang/LJSpeech-1.1/LJ010-0075.wav|He married again and came to London, where he soon became notorious as a reckless gambler and a politician holding the most extreme views.
-/temp/e-liang/LJSpeech-1.1/LJ006-0023.wav|had made such prisons as Auburn a model for imitation.
-/temp/e-liang/LJSpeech-1.1/LJ031-0142.wav|The Vice President conferred with White House Assistant Press Secretary Malcolm Kilduff
-/temp/e-liang/LJSpeech-1.1/LJ028-0103.wav|He rebuilt scores of the ancient temples, surrounded many cities with walls,
-/temp/e-liang/out/sam/aud_neut/neutral_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
-/temp/e-liang/out/jenie/aud_disgust/disgust_169-190_0180.wav|If not, let's say our prayers and go to bed.
-/temp/e-liang/LJSpeech-1.1/LJ048-0063.wav|The formal FBI instructions to its agents outlining the information to be referred to the Secret Service were too narrow at the time of the assassination.
-/temp/e-liang/LJSpeech-1.1/LJ003-0033.wav|Enough has been said, probably, to prove that there was room for improvement in the condition and treatment of debtors in the prisons of the city of London.
-/temp/e-liang/LJSpeech-1.1/LJ019-0253.wav|Even where cells had been built
-/temp/e-liang/out/josh/aud_neut/neutral_225-252_0240.wav|Wash your hands of me.
-/temp/e-liang/out/josh/aud_am/amused_197-224_0222.wav|What part of the United States is your home.
-/temp/e-liang/out/sam/aud_am/amused_393-420_0420.wav|When I came to I was waving my hat and murmuring ecstatically.
-/temp/e-liang/LJSpeech-1.1/LJ030-0147.wav|that it was twelve:thirty p.m., the time they were due at the Trade Mart.
-/temp/e-liang/out/jenie/aud_anger/anger_113-140_0140.wav|Accept a father's blessing, and with it, this.
-/temp/e-liang/LJSpeech-1.1/LJ004-0205.wav|Industrial labor had also been introduced with satisfactory results.
-/temp/e-liang/LJSpeech-1.1/LJ006-0235.wav|The surgeon's journal produced to the inspectors contained numerous entries of terrible wounds inflicted in a cowardly way.
-/temp/e-liang/out/sam/aud_neut/neutral_57-84_0060.wav|Anyway, no one saw her like that.
-/temp/e-liang/LJSpeech-1.1/LJ030-0089.wav|This distance was maintained so that spectators would normally turn their gaze from the President's automobile by the time the Vice President came into view.
-/temp/e-liang/LJSpeech-1.1/LJ049-0052.wav|In response to inquiry by the Commission regarding the instructions to agents in a motorcade
-/temp/e-liang/LJSpeech-1.1/LJ028-0134.wav|He also erected what is called a pensile paradise:
-/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0353.wav|Here the explosion of mirth drowned him out.
-/temp/e-liang/LJSpeech-1.1/LJ049-0057.wav|and to shield him by attempting to place themselves between the President and any source of danger.
-/temp/e-liang/out/bea/anger/anger_1-28_0006.wav|God bless 'em, I hope I'll go on seeing them forever.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_421-448_0436.wav|But Martin smiled a superior smile.
-/temp/e-liang/LJSpeech-1.1/LJ001-0172.wav|The ornamentation of printed books is too wide a subject to be dealt with fully here; but one thing must be said on it.
-/temp/e-liang/out/jenie/aud_anger/anger_1-28_0010.wav|I'm playing a single hand in what looks like a losing game.
-/temp/e-liang/LJSpeech-1.1/LJ003-0339.wav|could possibly afford.
-/temp/e-liang/LJSpeech-1.1/LJ012-0082.wav|Jordan and Sullivan, who at once set to work in a business-like way to obtain impressions of the keys of the strong room and chest.
-/temp/e-liang/LJSpeech-1.1/LJ003-0024.wav|he collected the garnish money, and distributed the weekly grant from the prison charitable fund.
-/temp/e-liang/LJSpeech-1.1/LJ029-0164.wav|Also on November nineteen, the Morning News reported that the President's motorcade would travel from Love Field along specified streets, then
-/temp/e-liang/out/jenie/aud_anger/anger_393-420_0416.wav|The added weight had a velocity of fifteen miles per hour.
-/temp/e-liang/LJSpeech-1.1/LJ045-0193.wav|en route from Dallas Love Field, end quote, on its way to the Trade Mart on Stemmons Freeway.
-/temp/e-liang/LJSpeech-1.1/LJ011-0237.wav|The jewelers were always a favorite prey of the London thieves.
-/temp/e-liang/LJSpeech-1.1/LJ041-0109.wav|The hearing officer agreed with the latter claim but found Oswald guilty of wrongfully using provoking words and sentenced him to twenty-eight days,
-/temp/e-liang/LJSpeech-1.1/LJ037-0232.wav|As has been discussed previously,
-/temp/e-liang/LJSpeech-1.1/LJ004-0175.wav|In this prison there was no female infirmary.
-/temp/e-liang/out/sam/aud_am/amused_393-420_0393.wav|Already he had begun borrowing from the banks.
-/temp/e-liang/LJSpeech-1.1/LJ035-0086.wav|The time actually required for Baker and Truly to reach the second floor on November twenty-two was probably longer than in the test runs. For example,
-/temp/e-liang/LJSpeech-1.1/LJ008-0151.wav|but in the beginning of eighteen oh seven one of them, at that time just sentenced to transportation,
-/temp/e-liang/out/josh/aud_am/amused_141_168_0164.wav|He came first a year ago, and revealed himself to Jeanne.
-/temp/e-liang/out/sam/aud_neut/neutral_281-308_0299.wav|I tell you I am disgusted with this adventure tomfoolery and rot.
-/temp/e-liang/out/sam/aud_am/amused_367-392_0377.wav|This sound did not disturb the hush and awe of the place.
-/temp/e-liang/LJSpeech-1.1/LJ018-0053.wav|he whispered in the ear of the German pastor who attended him on the scaffold,
-/temp/e-liang/LJSpeech-1.1/LJ017-0028.wav|that she had had a quarrel with her mistress, and that the latter with all others who tasted the dumplings were similarly attacked, although no one died.
-/temp/e-liang/LJSpeech-1.1/LJ002-0129.wav|would have amounted to sixty-eight thousand, seven hundred twenty-eight pounds, and if defended,
-/temp/e-liang/LJSpeech-1.1/LJ021-0026.wav|seems necessary to produce the same result of justice and right conduct
-/temp/e-liang/LJSpeech-1.1/LJ009-0126.wav|Hardly any one.
-/temp/e-liang/LJSpeech-1.1/LJ040-0019.wav|Under our system of justice no forum could properly make that determination unless Oswald were before it.
-/temp/e-liang/LJSpeech-1.1/LJ036-0068.wav|Both buses stopped within one block of the Depository Building.
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_281-308_0301.wav|But all my dreams violated this law.
-/temp/e-liang/LJSpeech-1.1/LJ005-0229.wav|By another clause of the Jail Act, two justices were to be appointed to visit the prison at least thrice in every quarter, and "oftener if occasion required."
-/temp/e-liang/LJSpeech-1.1/LJ011-0020.wav|had been sold out under a forged power of attorney.
-/temp/e-liang/out/bea/sleepiness/sleepiness_449-476_0470.wav|He spat it out like so much venom.
-/temp/e-liang/LJSpeech-1.1/LJ009-0208.wav|erected on the cart, about four feet high at the head, and gradually sloping towards the horse, giving a full view of the body,
-/temp/e-liang/LJSpeech-1.1/LJ023-0041.wav|It is a quiet crisis. There are no lines of depositors outside closed banks.
-/temp/e-liang/LJSpeech-1.1/LJ039-0064.wav|An aerial photograph of Dealey Plaza shows that Elm Street runs at an angle
-/temp/e-liang/LJSpeech-1.1/LJ011-0042.wav|Visited Mr. Fauntleroy. The sheriffs have very kindly permitted him to remain in the turnkey's room where he was originally placed; nor can I omit expressing a hope
-/temp/e-liang/out/sam/aud_disgust/disgust_449-476_0469.wav|The eastern heavens were equally spectacular.
-/temp/e-liang/LJSpeech-1.1/LJ037-0239.wav|She confirmed this interview by a sworn affidavit.
-/temp/e-liang/LJSpeech-1.1/LJ035-0010.wav|As he turned the corner from Main onto Houston at a speed of about five to ten miles per hour,
-/temp/e-liang/LJSpeech-1.1/LJ010-0053.wav|and when the people were beginning to agitate for a larger share of political power, was among the earliest, and to some extent the most desperate, of these.
-/temp/e-liang/out/jenie/aud_anger/anger_225-252_0231.wav|The Resident Commissioner is away in Australia.
-/temp/e-liang/LJSpeech-1.1/LJ038-0206.wav|When he failed to return by ten or ten:thirty p.m., Marina Oswald went to his room and discovered the note. She testified: quote,
-/temp/e-liang/LJSpeech-1.1/LJ027-0179.wav|Finally, only in the Tertiary, so far as we yet know, do the highest form (anoura) appear.
-/temp/e-liang/LJSpeech-1.1/LJ001-0182.wav|the books so ornamented are amongst the most delightful works of art that have ever been produced.
-/temp/e-liang/LJSpeech-1.1/LJ038-0116.wav|When Captain Fritz asked him why he carried the revolver, he answered, quote, Well, you know about a pistol. I just carried it, end quote.
-/temp/e-liang/LJSpeech-1.1/LJ015-0172.wav|The inquiry soon revealed the colossal character of the frauds.
-/temp/e-liang/LJSpeech-1.1/LJ002-0195.wav|Besides these, a number had the privilege of a "run on the key," which allowed a prisoner to go into the rules for the day.
-/temp/e-liang/LJSpeech-1.1/LJ035-0089.wav|No allowance was made for the special conditions which existed on the day of the assassination
-/temp/e-liang/out/sam/aud_disgust/Disgust_197-224_0222.wav|What part of the United States is your home.
-/temp/e-liang/LJSpeech-1.1/LJ019-0250.wav|In many prisons the prisoners were still associated, and, from the want of a sufficient number of cells, the principle of separation was still greatly neglected.
-/temp/e-liang/out/bea/sleepiness/sleepiness_281-307_0290.wav|One by one the boys were captured.
-/temp/e-liang/LJSpeech-1.1/LJ003-0072.wav|that some other and less mixed prison should be used for the confinement of persons convicted of libels. But this suggestion was ignored.
-/temp/e-liang/LJSpeech-1.1/LJ037-0117.wav|Both men picked Oswald as the man who had run south on Patton with a gun in his hand.
-/temp/e-liang/LJSpeech-1.1/LJ050-0176.wav|to establish liaison with local intelligence gathering agencies and to provide for the immediate evaluation of information received from them.
-/temp/e-liang/LJSpeech-1.1/LJ011-0159.wav|At Manchester, en route, a traveling carriage was purchased, which was driven up to Mrs. Daulby's door at eight in the morning,
-/temp/e-liang/LJSpeech-1.1/LJ040-0112.wav|That was not the case, however, after he and his mother moved to New York in August of nineteen fifty-two, shortly before Lee's thirteenth birthday.
-/temp/e-liang/LJSpeech-1.1/LJ018-0377.wav|Conviction was obtained through the evidence of the steward and two of the least culpable of the crew.
-/temp/e-liang/out/sam/aud_am/amused_29-56_0031.wav|They were three hundred yards apart.
-/temp/e-liang/LJSpeech-1.1/LJ028-0508.wav|others have been taken to the Berlin Museum.
-/temp/e-liang/LJSpeech-1.1/LJ003-0179.wav|which will deal with Mrs. Fry's philanthropic exertions at this period in this particular part of the prison.
-/temp/e-liang/LJSpeech-1.1/LJ004-0143.wav|so that the culprit, in addition to his sentence,
-/temp/e-liang/LJSpeech-1.1/LJ043-0111.wav|After securing this job and an apartment, Oswald asked his wife to join him.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_141-168_0164.wav|He came first a year ago, and revealed himself to Jeanne.
-/temp/e-liang/out/sam/aud_am/amused_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
-/temp/e-liang/LJSpeech-1.1/LJ029-0162.wav|The motorcade will then pass through downtown on Harwood
-/temp/e-liang/LJSpeech-1.1/LJ002-0210.wav|the keeper of the large tap-room called the Brace, because it was once kept by two brothers named Partridge, also paid him toll.
-/temp/e-liang/LJSpeech-1.1/LJ009-0021.wav|in which it was said I had enlarged upon the heinous nature of his crime, and warned the public to avoid such conduct.
-/temp/e-liang/LJSpeech-1.1/LJ003-0129.wav|a taste for spirits. End quote.
-/temp/e-liang/LJSpeech-1.1/LJ038-0055.wav|No other theatre patron or officer has testified that Oswald was hit by a gun.
-/temp/e-liang/LJSpeech-1.1/LJ006-0104.wav|but its issue was precarious, and dependent on the good will of the wardsmen, who measured out the portions to each according to his eye,
-/temp/e-liang/out/sam/aud_neut/neutral_421-448_0440.wav|Yes, sir, I corrected.
-/temp/e-liang/LJSpeech-1.1/LJ034-0050.wav|Most of the prints were found to have been placed on the cartons by an FBI clerk
-/temp/e-liang/LJSpeech-1.1/LJ048-0143.wav|the Secret Service did not at the time of the assassination have any established procedure governing its relationships with them.
-/temp/e-liang/LJSpeech-1.1/LJ031-0101.wav|While one medical team tried to revive President Kennedy, a second performed a series of operations on the bullet wounds sustained by Governor Connally.
-/temp/e-liang/LJSpeech-1.1/LJ028-0461.wav|the first-born son of Nabopolassar, King of Babylon.
-/temp/e-liang/out/bea/amused/amused_196-224_0208.wav|Youth had come back to her, freed from the yoke of oppression.
-/temp/e-liang/LJSpeech-1.1/LJ036-0053.wav|End quote. As Mrs. Bledsoe said these words, she pointed to her right elbow.
-/temp/e-liang/LJSpeech-1.1/LJ018-0051.wav|man cannot forgive man, only God can do so. Man is therefore only accountable to God.
-/temp/e-liang/LJSpeech-1.1/LJ031-0015.wav|Arriving almost simultaneously were the President's follow-up car, the Vice President's automobile, and the Vice President's follow-up car.
-/temp/e-liang/LJSpeech-1.1/LJ014-0320.wav|proposed to gain the capital he needed for business purposes by raising money on dock warrants for imported goods which had no real existence.
-/temp/e-liang/LJSpeech-1.1/LJ038-0112.wav|As previously indicated, Marina Oswald testified that she took the two pictures with her husband's Imperial Reflex camera
-/temp/e-liang/out/sam/aud_neut/neutral_141-168_0144.wav|But there was something even more startling than this resemblance.
-/temp/e-liang/LJSpeech-1.1/LJ003-0022.wav|This steward was practically supreme.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_113-140_0126.wav|Each day she became a more vital part of him.
-/temp/e-liang/LJSpeech-1.1/LJ023-0044.wav|the need to meet the unanswered challenge of one-third of a Nation ill-nourished, ill-clad, ill-housed.
-/temp/e-liang/out/jenie/aud_am/amused_113-136_0119.wav|Jeanne was turning the bow shoreward.
-/temp/e-liang/LJSpeech-1.1/LJ005-0139.wav|making an average of nineteen persons occupying each room.
-/temp/e-liang/out/sam/aud_neut/neutral_421-448_0426.wav|They do not know the length of time of incubation.
-/temp/e-liang/LJSpeech-1.1/LJ011-0034.wav|These arguments availed little with the jury, who after a short deliberation found Fauntleroy guilty, and he was sentenced to death.
-/temp/e-liang/LJSpeech-1.1/LJ008-0075.wav|She is described as a well-made little woman, something more than thirty years of age, of a pale complexion and not disagreeable features.
-/temp/e-liang/LJSpeech-1.1/LJ007-0237.wav|Many rats also come through these so-called ventilators, as they open close to the ground at the back of the prison.
-/temp/e-liang/out/jenie/aud_anger/anger_477-504_0493.wav|The boy, O'Brien, was specially maltreated.
-/temp/e-liang/LJSpeech-1.1/LJ015-0259.wav|Agar too, in Newgate, heard how Pierce had treated him, and at once readily turned approver.
-/temp/e-liang/LJSpeech-1.1/LJ038-0163.wav|Prior attempt to kill.
-/temp/e-liang/out/bea/sleepiness/sleepiness_477-504_0487.wav|The river bared its bosom, and snorting steamboats challenged the wilderness.
-/temp/e-liang/LJSpeech-1.1/LJ012-0208.wav|Reference was made to Mr. Partridge, the demonstrator in anatomy,
-/temp/e-liang/out/josh/aud_am/amused_197-224_0209.wav|It was not a large lake, and almost round.
-/temp/e-liang/out/sam/aud_neut/neutral_477-504_0480.wav|Tom Spink has a harpoon.
-/temp/e-liang/LJSpeech-1.1/LJ007-0228.wav|In their tenth report
-/temp/e-liang/LJSpeech-1.1/LJ017-0171.wav|Smethurst was therefore given a free pardon for the offense of murder,
-/temp/e-liang/LJSpeech-1.1/LJ048-0242.wav|Three members of this shift separately took this opportunity to visit the Cellar Coffee House.
-/temp/e-liang/out/josh/aud_am/amused_141_168_0155.wav|Won't you draw up, gentlemen.
-/temp/e-liang/out/bea/amused/amused_46-56_0050.wav|In spite of their absurdity the words affected Philip curiously.
-/temp/e-liang/LJSpeech-1.1/LJ037-0068.wav|taken at the time of his arrest.
-/temp/e-liang/LJSpeech-1.1/LJ015-0142.wav|He soon proved his ability, and by unremitting attention mastered the whole work of the office.
-/temp/e-liang/out/jenie/aud_disgust/disgust_393-420_0400.wav|Manuel had one besetting sin.
-/temp/e-liang/LJSpeech-1.1/LJ002-0233.wav|Twice a week there was a wine and beer club held at night, which lasted till two or three in the morning.
-/temp/e-liang/LJSpeech-1.1/LJ009-0013.wav|and kept altogether separate from the other prisoners until the day of his death.
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
-/temp/e-liang/LJSpeech-1.1/LJ048-0043.wav|nor was there any requirement to report the names of defectors. However, there was much material in the hands of the FBI about Oswald:
-/temp/e-liang/LJSpeech-1.1/LJ047-0170.wav|On November five, Hosty was traveling near Mrs. Paine's home and took the occasion to stop by to ask whether she had any further information.
-/temp/e-liang/LJSpeech-1.1/LJ004-0021.wav|The neglect of prison reform in those days was not to be visited upon the legislature.
-/temp/e-liang/LJSpeech-1.1/LJ035-0102.wav|Truly and Baker continued up the stairs after the encounter with Oswald in the lunchroom.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_393-420_0410.wav|So we have to fit the boat throughout with oil lamps as well.
-/temp/e-liang/LJSpeech-1.1/LJ016-0180.wav|But Calcraft regularly succeeded Foxen, who followed Botting, and Dennis, the actor in the seventeen eighty riots.
-/temp/e-liang/out/josh/aud_neut/neutral_113-140_0122.wav|Two years ago I gave up civilization for this.
-/temp/e-liang/out/josh/aud_neut/neutral_169-196_0195.wav|But a strange thing happened.
-/temp/e-liang/LJSpeech-1.1/LJ020-0017.wav|Now whip up the batter with a wooden spoon for another minute, and the sponge is made.
-/temp/e-liang/LJSpeech-1.1/LJ022-0081.wav|Funds allotted for each project should be actually and promptly spent and not held over until later years.
-/temp/e-liang/LJSpeech-1.1/LJ012-0121.wav|A part of the "swag" stolen from the bonded warehouse was thus recovered, but it was supposed that a number of the stolen notes had perished in the fire.
-/temp/e-liang/LJSpeech-1.1/LJ013-0113.wav|Robberies as daring in conception as they were boldly executed were common enough.
-/temp/e-liang/LJSpeech-1.1/LJ008-0005.wav|The terrible spectacle was as demoralizing to the public, for whose admonition it was intended,
-/temp/e-liang/out/sam/aud_anger/anger_169-196_0183.wav|And the air was growing chilly.
-/temp/e-liang/out/bea/amused/amused_113-140_0131.wav|Providence had delivered him through the maelstrom.
-/temp/e-liang/LJSpeech-1.1/LJ038-0098.wav|Denial of Rifle Ownership
-/temp/e-liang/out/bea/sleepiness/sleepiness_477-504_0478.wav|Also, she has forbidden them smoking their pipes in the after-room.
-/temp/e-liang/LJSpeech-1.1/LJ044-0125.wav|of residence in the U.S.S.R. against any cause which I join, by association,
-/temp/e-liang/LJSpeech-1.1/LJ041-0202.wav|Oswald's commitment to Marxism contributed to the decisions which led him to defect to the Soviet Union in nineteen fifty-nine, and later
-/temp/e-liang/LJSpeech-1.1/LJ022-0109.wav|The allotment of funds for desirable projects has already begun.
-/temp/e-liang/LJSpeech-1.1/LJ009-0173.wav|from eighteen thirty-two to eighteen forty-four not a single person had been executed in the metropolis except for this the gravest crime.
-/temp/e-liang/LJSpeech-1.1/LJ038-0125.wav|Now, I've told you all I'm going to tell you about that card in my billfolds -- you have the card yourself and you know as much about it as I do, end quote.
-/temp/e-liang/LJSpeech-1.1/LJ012-0233.wav|According to the confession, death had been inflicted by drowning in a well, whereas the medical evidence all pointed to violence.
-/temp/e-liang/out/bea/amused/amused_169-196_0192.wav|He did not rush in.
-/temp/e-liang/LJSpeech-1.1/LJ025-0049.wav|is the specially animal function of animals and constitutes their fourth distinctive character.
-/temp/e-liang/LJSpeech-1.1/LJ025-0061.wav|Agardh and other of the botanists of Cuvier's generation who occupied themselves with the lower plants had observed that,
-/temp/e-liang/LJSpeech-1.1/LJ002-0097.wav|they had dust-bins, sewers, and so forth, "properly disposed," and the city scavenger paid periodical visits to the prison.
-/temp/e-liang/out/sam/aud_sleep/sleepiness_85-112_0088.wav|He made sure that the magazine was loaded, and resumed his paddling.
-/temp/e-liang/LJSpeech-1.1/LJ003-0028.wav|and no doubt made the meat also pay toll.
-/temp/e-liang/LJSpeech-1.1/LJ030-0220.wav|David Powers, who witnessed the scene from the President's follow-up car,
-/temp/e-liang/LJSpeech-1.1/LJ033-0009.wav|Oswald's arrival at the Depository Building on November twenty-two, carrying a long and bulky brown paper package,
-/temp/e-liang/LJSpeech-1.1/LJ009-0199.wav|About this time I find that the bodies of two murderers, Clench and Mackay,
-/temp/e-liang/LJSpeech-1.1/LJ041-0166.wav|in honor of some retiring noncommissioned officers, an event which they both approached with little enthusiasm.
-/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
-/temp/e-liang/out/sam/aud_am/amused_29-56_0039.wav|The ship should be in within a week or ten days.
-/temp/e-liang/out/jenie/aud_disgust/disgust_253-280_0279.wav|She said with chattering teeth.
-/temp/e-liang/LJSpeech-1.1/LJ027-0042.wav|All such cases of resemblance in function but not in detailed plan of structure are called "analogies,"
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_449-476_0473.wav|The night was calm and snowy.
-/temp/e-liang/out/sam/aud_neut/neutral_421-448_0422.wav|Halfway around the track one donkey got into an argument with its rider.
-/temp/e-liang/LJSpeech-1.1/LJ019-0398.wav|Accordingly, it was ordered by Sir William Harcourt, the present Secretary of State, that Newgate should cease to be used as a regular prison,
-/temp/e-liang/out/jenie/aud_disgust/disgust_393-420_0404.wav|Perrault found one with head buried in the grub box.
-/temp/e-liang/out/bea/anger/anger_225-252_0232.wav|I cannot follow you, she said.
-/temp/e-liang/LJSpeech-1.1/LJ045-0162.wav|He tried to start a conversation with me several times, but I would not answer. And he said that he didn't want me to be angry at him because this upsets him.
-/temp/e-liang/LJSpeech-1.1/LJ048-0092.wav|The advance preparations in Dallas by Agent Winston G. Lawson of the White House detail have been described in chapter two.
-/temp/e-liang/out/sam/aud_anger/anger_113-140_0130.wav|She was his now, forever.
-/temp/e-liang/LJSpeech-1.1/LJ049-0137.wav|and the other Federal agencies that assist in safeguarding the President. The Committee should include the Secretary of the Treasury and the Attorney General,
-/temp/e-liang/LJSpeech-1.1/LJ042-0183.wav|As a result he thought it would be, quote, necessary to oppose the old systems but at the same time support their cherished traditions, end quote.
-/temp/e-liang/LJSpeech-1.1/LJ044-0066.wav|Oswald wrote that he had appeared on Mr. William Stuckey's fifteen-minute television program over WDSU-TV called, quote,
-/temp/e-liang/out/jenie/aud_neutral/neutral_57-84_0064.wav|The fourth and fifth days passed without any developments.
-/temp/e-liang/out/sam/aud_anger/anger_367-392_0387.wav|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.
-/temp/e-liang/out/bea/neutral/neutral_253-280_0275.wav|There are no kiddies and half grown youths among them.
-/temp/e-liang/LJSpeech-1.1/LJ013-0168.wav|That Lord William Russell had committed suicide was at once declared impossible.
-/temp/e-liang/LJSpeech-1.1/LJ007-0152.wav|Having thus passed his time, he returns a greater adept in crime, with a wider acquaintance among criminals, and, what perhaps is even more injurious to him,
-/temp/e-liang/LJSpeech-1.1/LJ031-0153.wav|The telephone line to Washington was kept open throughout the remainder of the stay at the hospital.
-/temp/e-liang/LJSpeech-1.1/LJ006-0293.wav|and the men could also at any time go for tea, coffee, and sugar to Mrs. Brown's shop, which was inside the female gate.
-/temp/e-liang/LJSpeech-1.1/LJ036-0036.wav|At about six:thirty p.m. on the day of the assassination, McWatters viewed four men in a police lineup.
-/temp/e-liang/out/sam/aud_anger/anger_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
-/temp/e-liang/LJSpeech-1.1/LJ022-0086.wav|to which all proposals for the expenditure of money must go for preliminary study and consideration.
-/temp/e-liang/LJSpeech-1.1/LJ015-0173.wav|Warrants were issued for Redpath's arrest, but he had flown to Paris.
-/temp/e-liang/LJSpeech-1.1/LJ009-0170.wav|to fifty-six in eighteen thirty-nine.
-/temp/e-liang/out/sam/aud_anger/anger_281-308_0295.wav|And twenty men could hold it with spears and arrows.
-/temp/e-liang/LJSpeech-1.1/LJ033-0110.wav|Frazier and Mrs. Randle testified
-/temp/e-liang/LJSpeech-1.1/LJ041-0116.wav|after it was learned that he had defected to the Soviet Union.
-/temp/e-liang/LJSpeech-1.1/LJ025-0078.wav|not only ready cooked but ready digested, and the alimentary canal, become superfluous, has disappeared, and, again,
-/temp/e-liang/LJSpeech-1.1/LJ022-0057.wav|The program for social security now pending before the Congress is a necessary part of the future unemployment policy of the government.
-/temp/e-liang/LJSpeech-1.1/LJ034-0154.wav|and I felt like there hadn't been more than one eyewitness, and if it got to be a known fact that I was an eyewitness, my family or I, either one, might not be safe.
-/temp/e-liang/LJSpeech-1.1/LJ015-0308.wav|and others who swore to the meetings of the conspirators and their movements. Saward was found guilty,
-/temp/e-liang/LJSpeech-1.1/LJ038-0153.wav|He said that he left work because Bill Shelley said that there would be no more work done that day in the building.
-/temp/e-liang/LJSpeech-1.1/LJ015-0263.wav|Scarcely had the conviction of these daring and astute thieves been assured, than another gigantic fraud was brought to light.
-/temp/e-liang/LJSpeech-1.1/LJ003-0293.wav|also to make such proposals as might appear salutary, and calculated to improve Newgate and the rest of the city jails.
-/temp/e-liang/LJSpeech-1.1/LJ029-0203.wav|greet the President of the United States with the warmth and pride that keep the Dallas spirit famous the world over, end quote,
-/temp/e-liang/LJSpeech-1.1/LJ037-0258.wav|There is no doubt, however, that Oswald was seen leaving his roominghouse at about one p.m. wearing a zipper jacket,
-/temp/e-liang/out/sam/aud_anger/anger_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
-/temp/e-liang/out/jenie/aud_am/amused_137-140_0139.wav|He told himself that as he washed himself and groomed his disheveled clothes.
-/temp/e-liang/LJSpeech-1.1/LJ011-0070.wav|Afterwards, according to the common rumor, he went abroad and lived there for many years; but the story is not only wholly unsubstantiated,
-/temp/e-liang/LJSpeech-1.1/LJ008-0298.wav|Sometimes the report was delayed.
-/temp/e-liang/LJSpeech-1.1/LJ011-0227.wav|After their release from Lancaster and Newgate respectively, both Wakefields went abroad.
-/temp/e-liang/LJSpeech-1.1/LJ015-0100.wav|They drove there, and Robson on arrival did the honors of his house, rang for lunch to gain time,
-/temp/e-liang/LJSpeech-1.1/LJ020-0056.wav|Arrange the rolls in regular rows in the pan about a quarter of an inch apart.
-/temp/e-liang/out/sam/aud_disgust/Disgust_141-168_0161.wav|Take away their foreman and they wouldn't be worth their grub.
-/temp/e-liang/LJSpeech-1.1/LJ030-0206.wav|on the turn at the intersection of Houston and Elm Streets and then proceeded at a rate of twelve to fifteen miles per hour
-/temp/e-liang/out/sam/aud_am/amused_169-196_0170.wav|There was none of the joy of meeting in his face.
-/temp/e-liang/out/sam/aud_am/amused_281-308_0285.wav|But what they want with your toothbrush is more than I can imagine.
-/temp/e-liang/LJSpeech-1.1/LJ018-0071.wav|a proceeding which he vehemently resented, and begged that they might be removed, as the handcuffs hurt his wrists.
-/temp/e-liang/LJSpeech-1.1/LJ035-0050.wav|With his revolver drawn, Baker opened the vestibule door and ran into the vestibule.
-/temp/e-liang/LJSpeech-1.1/LJ002-0282.wav|Those who could not pay were thrown into the wards with the night charges,
-/temp/e-liang/out/jenie/aud_sleep/sleepiness_113-140_0120.wav|My right foot feels like that of a Chinese debutante.
-/temp/e-liang/out/josh/aud_neut/neutral_169-196_0172.wav|Gregson had left the outer door slightly ajar.
-/temp/e-liang/LJSpeech-1.1/LJ011-0112.wav|Mr. Sparks Moline, came to attend him to the scaffold.
-/temp/e-liang/LJSpeech-1.1/LJ028-0487.wav|Fortunately its walls have suffered less from the hands of the brick hunters, and the German excavators have been able to reconstruct their plan.
-/temp/e-liang/LJSpeech-1.1/LJ003-0077.wav|Two of the untried were for murder, and several for house-breaking and highway robbery.
-/temp/e-liang/LJSpeech-1.1/LJ036-0040.wav|In a later interview, Jones confirmed that he had exchanged words with a woman passenger on the bus during the ride south on Marsalis.
-/temp/e-liang/out/josh/aud_am/amused_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
-/temp/e-liang/LJSpeech-1.1/LJ014-0271.wav|Nevertheless, in this position, through the culpable carelessness which left him unfettered, he managed between eighteen forty-four
-/temp/e-liang/out/sam/aud_neut/neutral_253-280_0274.wav|And Raoul listened again to the tale of the house.
-/temp/e-liang/LJSpeech-1.1/LJ004-0236.wav|But nothing short of radical reform and complete reconstruction could touch the deep-seated evils of association, overcrowding, and idleness.
-/temp/e-liang/LJSpeech-1.1/LJ047-0082.wav|for an extended tour of Western European countries, the Soviet Union, Finland, and Poland.
-/temp/e-liang/LJSpeech-1.1/LJ018-0060.wav|His crime under this aspect of it was less premeditated, and less atrocious therefore, than that of Lefroy.
-/temp/e-liang/out/sam/aud_am/amused_225-252_0234.wav|Why, the average review is more nauseating than cod liver oil.
-/temp/e-liang/out/josh/aud_neut/neutral_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
-/temp/e-liang/LJSpeech-1.1/LJ022-0009.wav|The job of creating a program for the nation's welfare is, in some respects, like the building of a ship.
-/temp/e-liang/out/jenie/aud_neutral/neutral_365-392_0378.wav|That's why its boundaries are all gouged and jagged.
-/temp/e-liang/LJSpeech-1.1/LJ003-0252.wav|of distinguishing a prisoner from a stranger and temporary visitor.
-/temp/e-liang/LJSpeech-1.1/LJ015-0236.wav|Burgess admitted him into the guard's van, where he fitted and filed the keys till they worked easily and satisfactorily in the locks of the safe.
-/temp/e-liang/out/josh/aud_am/amused_1-28_0015.wav|It's the aurora borealis.
-/temp/e-liang/LJSpeech-1.1/LJ016-0094.wav|No further notice was taken of him; no one seemingly suspected that he was a prisoner, and he was suffered to walk off without let or hindrance.
-/temp/e-liang/out/sam/aud_anger/anger_225_252_0247.wav|They ought to pass here some time today.
+/temp/e-liang/out/josh/aud_neut/neutral_253-280_0277.wav|McCoy found a stifling, poisonous atmosphere in the pent cabin.
+/temp/e-liang/out/sam/aud_am/amused_477-504_0478.wav|Also, she has forbidden them smoking their pipes in the after-room.
+/temp/e-liang/out/sam/aud_disgust/disgust_309-336_0326.wav|Cherokee identified himself with his instinct.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ026-0140.wav|In the plant as in the animal metabolism must consist of anabolic and catabolic processes.
+/temp/e-liang/out/sam/aud_anger/anger_113-140_0124.wav|It was Jeanne singing softly over beyond the rocks.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0074.wav|No judge ever condemned a man to be half-perished with cold by day, or half-suffocated with heat by night.
+/temp/e-liang/out/sam/aud_am/amused_29-56_0029.wav|Their forces were already moving into the north country.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0147.wav|the protracted dissimulation, as with unshrinking, relentless wickedness the deadly work is carried on to the end.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ038-0252.wav|Marina Oswald stated that- when she asked her husband what be had done with the rifle,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ018-0083.wav|Sattler was a very excitable although not an ill-tempered man.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0053.wav|A very valuable volume published by the Society
+/temp/e-liang/LJSpeech-1.1/wavs/LJ049-0191.wav|is properly manned and equipped to carry on extensive information gathering functions within the United States.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ008-0220.wav|hoary-headed and hardened in guilt, were still at large.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ030-0082.wav|The agents on the front of the running boards had directions to move immediately to positions just to the rear of the President and Mrs. Kennedy when the President's car slowed
+/temp/e-liang/LJSpeech-1.1/wavs/LJ037-0209.wav|Handwriting experts, Alwyn Cole of the Treasury Department and James C. Cadigan of the FBI,
+/temp/e-liang/out/josh/aud_am/amused_113-140_0135.wav|I am going to surprise father, and you will go with Pierre.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ013-0182.wav|took Courvoisier into custody, and placed the two female servants under surveillance.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0019.wav|refuted by abundant evidence, and having no foundation whatever in truth.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ044-0038.wav|promptly closed three days later for some obscure reasons by the renters,
+/temp/e-liang/out/sam/aud_neut/neutral_281-308_0294.wav|He had been foiled in his attempt to escape.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ014-0096.wav|and at their request two police officers were sent to Bermondsey to inquire for him at the Mannings, with whom it was well known that he was very intimate.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ013-0089.wav|Thither Elder went alone, provided with a number of canvas and one large carpet-bag.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ042-0051.wav|and what I observed plus my Marxist learning brought me here to the Soviet Union.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ016-0310.wav|Another distinguished witness feared
+/temp/e-liang/out/bea/neutral/Neutral_29-56_0041.wav|Meanwhile I'll go out to breathe a spell.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0214.wav|ended when Marina Oswald hung up and refused to talk to him. Although he may long before have decided on the course he was to follow
+/temp/e-liang/LJSpeech-1.1/wavs/LJ048-0011.wav|Neither believed that the Bureau investigation of him up to November twenty-two revealed any information which would have justified referral to the Secret Service.
+/temp/e-liang/out/bea/amused/amused_141_168_0161.wav|Take away their foreman and they wouldn't be worth their grub.
+/temp/e-liang/out/jenie/aud_disgust/disgust_533-560_0547.wav|Men like Joe Goose dated existence from drunk to drunk.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ032-0124.wav|by Sebastian F. Latona, supervisor of the Latent Fingerprint Section of the FBI's Identification Division.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ047-0045.wav|and promised to advise the FBI if he heard from them.
+/temp/e-liang/out/josh/aud_sleep/sleepiness_253_280_0264.wav|And I hope you've got plenty of chain out, Captain Young.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ014-0221.wav|On the contrary, many of them encouraged the brutal assailant in his savage attack.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0302.wav|and so were unable either to warm themselves or to cook their food.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0045.wav|Nor did it confine itself to mere verbal recommendations.
+/temp/e-liang/out/sam/aud_anger/anger_367-392_0365.wav|These rumors may even originate with us.
+/temp/e-liang/out/jenie/aud_anger/anger_169-196_0183.wav|And the air was growing chilly.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ023-0058.wav|showed the need of a national government with power enough to handle national problems.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ047-0246.wav|and District Attorney Henry M. Wade both testified that they saw it later that day.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ042-0184.wav|Expanding on his ideas on how his alternative to communism and capitalism might be introduced, he wrote of a, quote, readily foreseeable
+/temp/e-liang/LJSpeech-1.1/wavs/LJ006-0293.wav|and the men could also at any time go for tea, coffee, and sugar to Mrs. Brown's shop, which was inside the female gate.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ022-0059.wav|it is obvious that we cannot continue to create governmental deficits for that purpose year after year.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ041-0008.wav|He took walks and visited museums, and sometimes rode a rented bicycle in the park on Saturday mornings.
+/temp/e-liang/out/jenie/aud_sleep/sleepiness_337-360_0349.wav|It was simple, in its way, and no virtue of his.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ010-0229.wav|Within a couple of years a second attempt to assassinate the Queen was perpetrated in nearly the same spot, by a man named John Francis,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0281.wav|introduced, as was erroneously supposed, by the prison commissioners appointed under the Prison Act of eighteen seventy-seven.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ040-0015.wav|There is, however, a large amount of material available in his writings
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0171.wav|Smethurst was therefore given a free pardon for the offense of murder,
+/temp/e-liang/out/sam/aud_neut/neutral_225_252_0238.wav|It happened to him at the Gallina Society in Oakland one afternoon.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ032-0071.wav|Oswald's use of the name "Hidell" to purchase the assassination weapon was one of several instances in which he used this name as an alias.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0079.wav|As a result Oswald struck her, as to which she testified, quote,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ027-0023.wav|that the only reasonable explanation for the existence of a fundamental unity in organic life
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0227.wav|and suggests the possibility, as did his note to his wife just prior to the attempt on General Walker, that he did not expect to escape at all.
+/temp/e-liang/out/sam/aud_neut/neutral_421-448_0445.wav|The creative joy, I murmured.
+/temp/e-liang/out/jenie/aud_anger/anger_421-448_0430.wav|Nevertheless we found ourselves once more in the high seat of abundance.
+/temp/e-liang/out/sam/aud_am/amused_253-280_0262.wav|They wouldn't be sweeping a big vessel like the Martha.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ028-0339.wav|he threw open the Cissian and Belian gates, and admitted the enemy.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ040-0089.wav|In order to supplement their income further she falsely swore that Pic was seventeen years old so that he could join the Marine Corps Reserves.
+/temp/e-liang/out/bea/amused/amused_85-112_0110.wav|Much, replied Jeanne, as tersely.
+/temp/e-liang/out/josh/aud_sleep/sleepiness_29-56_0031.wav|They were three hundred yards apart.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0128.wav|He also makes the curious calculation that the costs of these actions if undefended
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0341.wav|The old custom, so fruitful of the worst evils, of keeping a tap inside the prison was made illegal.
+/temp/e-liang/out/sam/aud_am/amused_57-84_0084.wav|Scarcely had he uttered the name when Pierre's closing eyes shot open.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0130.wav|In nineteen forty-three PRS received approximately nine thousand items of information;
+/temp/e-liang/LJSpeech-1.1/wavs/LJ012-0055.wav|While there he was joined by his wife and other friends.
+/temp/e-liang/out/bea/anger/anger_281-308_0282.wav|If you mean to insinuate -- Brentwood began hotly.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ028-0027.wav|For ten days you follow down the river, through little villages and black tent encampments, among scenes of strange Arab life which never lose their charm.
+/temp/e-liang/out/jenie/aud_sleep/sleepiness_309-336_0330.wav|Red-Eye never committed a more outrageous deed.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ012-0070.wav|He was, however, recognized, and ere long an order came out from home for his arrest and transfer to England,
+/temp/e-liang/out/sam/aud_anger/anger_309-336_0333.wav|This is no place for you.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ025-0063.wav|and with all the appearances of spontaneity as locomotive bodies,
+/temp/e-liang/out/sam/aud_sleep/sleepiness_57-84_0067.wav|Surely I will excuse you, she cried.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ011-0073.wav|several persons were sentenced to or suffered death for this crime.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ028-0367.wav|The priests of the temple of Bel, so a story tells us,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ010-0151.wav|Again, a soldier, by name Hatfield, who had been wounded in the head, and discharged from the army for unsoundness of mind,
+/temp/e-liang/out/sam/aud_anger/anger_336-364_0364.wav|We have plenty of capital ourselves, and yet we want more.
+/temp/e-liang/out/jenie/aud_anger/anger_477-504_0487.wav|The river bared its bosom, and snorting steamboats challenged the wilderness.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ033-0060.wav|Marina Oswald testified that at that time, quote, My heart dropped.
+/temp/e-liang/out/bea/neutral/neutral_169-196_0187.wav|Ahead of them they saw a glimmer of sunshine.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ011-0054.wav|A very curious and, in its way, amusing circumstance in connection with this case was the offer of a certain Italian,
+/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0250.wav|He had observed the business life of Hawaii and developed a vaulting ambition.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ035-0079.wav|The first test, run at normal walking pace, required one minute, eighteen seconds;
+/temp/e-liang/LJSpeech-1.1/wavs/LJ007-0144.wav|and he can almost invariably procure the luxuries of his class of life, beer and tobacco, in abundance.
+/temp/e-liang/out/bea/anger/anger_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ009-0043.wav|First is a youth of eighteen, condemned for stealing in a dwelling-house goods valued above five pounds.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ031-0232.wav|Shortly thereafter, the President's wife, family and aides left Bethesda Naval Hospital.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0156.wav|All the money earned by prisoners was at their own disposal, and was spent almost habitually in drink, chambering, and wantonness.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0065.wav|All the misdemeanants, whatever their offense, were lodged in this chapel ward.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0015.wav|This study has led the Commission to conclude that the public interest might be served by any contribution it can make to the improvement of protective arrangements.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ014-0263.wav|When other pleasures palled he took a theatre, and posed as a munificent patron of the dramatic art.
+/temp/e-liang/out/sam/aud_am/amused_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ016-0381.wav|Even when in the condemned cell, with a shameful death within measurable distance,
+/temp/e-liang/out/sam/aud_sleep/sleepiness_281-308_0288.wav|Those are my oysters, he said at last.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ014-0310.wav|Pries, although enjoying a high reputation in the city, had long been in a bad way.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0091.wav|in distinct rooms, on pain of forfeiting his office and treble damages to the party aggrieved."
+/temp/e-liang/out/bea/amused/amused_46-56_0048.wav|He looked at the handkerchief more, closely.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ049-0151.wav|Responsibilities for Presidential Protection
+/temp/e-liang/LJSpeech-1.1/wavs/LJ020-0053.wav|in the form of turnovers, pinching the corners of the fold pretty hard to hinder the flap of dough from flying up as the rising proceeds.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0159.wav|were constructed on the landings, ensconced in which warders spent the night, on duty, and alert to watch the sleepers below,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ001-0174.wav|should be a part of the whole scheme of the book.
+/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0274.wav|And Raoul listened again to the tale of the house.
+/temp/e-liang/out/bea/amused/amused_141_168_0155.wav|Won't you draw up, gentlemen.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0136.wav|as Oswald went on to say. In Oswald's imagination, quote,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ030-0110.wav|and Vice-Presidential follow-up car used portable sets with a separate frequency for their own car-to-car communication.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ034-0039.wav|In Latona's opinion, quote,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ018-0055.wav|He is described as not a bad-looking man, with a square German type of face,
+/temp/e-liang/out/sam/aud_disgust/Disgust_169_196_0183.wav|And the air was growing chilly.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0155.wav|for which the costs were six shillings ten pence.
+/temp/e-liang/out/sam/aud_anger/anger_393-420_0396.wav|A rising tide of fat had submerged them.
+/temp/e-liang/out/jenie/aud_anger/anger_369-392_0369.wav|In partnership with Daylight, the pair raided the San Jose Interurban.
+/temp/e-liang/out/sam/aud_disgust/disgust_393-420_0414.wav|Now our figuring was all right.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0072.wav|The inmates were privileged, either by antecedents or the fortunate possession of sufficient funds to pay the charges of the place.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ013-0242.wav|This increased when the officer, accompanied by two others, a neighbor and a bailiff, entered one of the stables.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ033-0135.wav|Location of Bag
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0168.wav|The smell at one o'clock of the day "was something more than can be expressed by the term disgusting."
+/temp/e-liang/LJSpeech-1.1/wavs/LJ006-0232.wav|More often they occurred at night, and were continued to the bitter end.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ039-0228.wav|Concerning the shots which struck the President in the back of the neck,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ025-0042.wav|They retain the hydrogen and the carbon, exhale the superfluous oxygen and absorb little or no nitrogen.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ029-0064.wav|Shortly before, the Dallas police had reported to the Secret Service that the handbill had appeared on the streets of Dallas.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ047-0197.wav|in view of all the information concerning Oswald in its files, should have alerted the Secret Service to Oswald's presence in Dallas
+/temp/e-liang/LJSpeech-1.1/wavs/LJ035-0068.wav|until Baker came upon Oswald in the lunchroom.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ036-0074.wav|If Oswald left the Depository Building at twelve:thirty-three p.m.,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0131.wav|He was an inmate of the same ward with others of the most dreadful sort, quote,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ015-0005.wav|About this time Davidson and Gordon, the people above-mentioned,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ034-0155.wav|When specifically asked before the Commission
+/temp/e-liang/LJSpeech-1.1/wavs/LJ049-0154.wav|In eighteen ninety-four,
+/temp/e-liang/out/bea/sleepiness/sleepiness_85-112_0086.wav|Death had come with terrible suddenness.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ030-0176.wav|In his testimony before the Commission, Governor Connally was certain that he was hit by the second shot, which he stated he did not hear.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ010-0241.wav|but she declared she would not remain a prisoner in her own palace, and next day drove out as usual in an open barouche.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ040-0220.wav|could have led anyone to predict the outburst of violence which finally occurred.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ001-0158.wav|it is never used except for very expensive books, although it would not materially increase the cost in all but the very cheapest.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0035.wav|and the total number of separate cells provided amounted to eleven thousand odd.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0144.wav|There was no convincing proof that the accused had administered the poison, although beyond question that poison had occasioned the death.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0027.wav|it was subsequently amplified, and the rates of salaries fixed.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0209.wav|but it was also, at least in part, because his wife did not want to live there with him.
+/temp/e-liang/out/josh/aud_neut/neutral_85-112_0099.wav|A maddening joy pounded in his brain.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ006-0237.wav|"A lad named Matthew White has had a wound in his eye by a bone thrown at him, which very nearly destroyed vision."
+/temp/e-liang/LJSpeech-1.1/wavs/LJ016-0166.wav|and surgical opinion stated that the stoppage of circulation was the cause of death.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ008-0005.wav|The terrible spectacle was as demoralizing to the public, for whose admonition it was intended,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ012-0061.wav|On stopping at a door in this low street, Ikey jumped out, ran into the house, slamming the door behind him.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0048.wav|A new and still imperfectly understood science had arisen,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ029-0017.wav|Moreover, he looked forward to the public appearances which he personally enjoyed. The basic decision on the November trip to Texas was made at a meeting of President Kennedy,
+/temp/e-liang/out/jenie/aud_disgust/disgust_85-112_0103.wav|But there came no promise from the bow of the canoe.
+/temp/e-liang/out/jenie/aud_anger/anger_449-476_0462.wav|But she swung obediently on her heel into the wind.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ042-0240.wav|he continued to be interested in that country after he returned to the United States.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ041-0071.wav|His Marine career was not helped by his attitude
+/temp/e-liang/out/jenie/aud_sleep/sleepiness_57-84_0075.wav|There has been a change, she interrupted him.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ044-0082.wav|His attempt to express himself through his Fair Play for Cuba activities, however,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ048-0075.wav|each SAC should specifically designate an Agent (or Agents) to be responsible for developing
+/temp/e-liang/LJSpeech-1.1/wavs/LJ009-0168.wav|robbery, burglary, and arson.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ009-0030.wav|and the idea will be strengthened by the following account of the Sunday service in the prison chapel on the occasion when the condemned sermon was preached.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0114.wav|the arrangements relied upon by the Secret Service to perform this function were seriously deficient.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0276.wav|Although attempted partially at Bridewell, and more systematically at the new Millbank penitentiary,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ039-0135.wav|using a twenty-two caliber bolt-action rifle belonging either to Robert or Robert's in-laws.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0037.wav|after his recent rebuffs in Mexico City
+/temp/e-liang/LJSpeech-1.1/wavs/LJ030-0137.wav|The Assassination
+/temp/e-liang/LJSpeech-1.1/wavs/LJ041-0103.wav|Oswald once told Powers that he didn't care if he returned to the United States at all.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ049-0134.wav|The Commission suggests that consideration might be given to assigning to a Cabinet-level committee or the National Security Council
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0189.wav|PRS had received, over a twenty-year period, basic information on some fifty thousand cases;
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0049.wav|the principles of which were debated by disputants of widely opposite opinions with an earnestness that sometimes bordered upon acrimony.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0105.wav|and beyond it was a room called the "wine room," because formerly used for the sale of wine, but
+/temp/e-liang/LJSpeech-1.1/wavs/LJ012-0214.wav|Carlo Ferrari, who made a living by exhibiting white mice about the streets,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ038-0010.wav|a recessed area extending about fifteen feet between the sidewalk and the front door of his store.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ037-0003.wav|Eyewitnesses
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0054.wav|partly because of the greater speed and comfort of travel and partly because of the greater demands made on the President.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0199.wav|This made exertion compulsory, and imposed hard labor as a proper punishment.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ044-0035.wav|This is suggested by his misleading and sometime untruthful statements in his letters to Mr. V. T. Lee,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ008-0110.wav|The prisoners had not risen.
+/temp/e-liang/out/jenie/aud_anger/anger_337-364_0337.wav|Encouraged by my conduct, Big-Face became a sudden ally.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ001-0043.wav|A further development of the Roman letter took place at Venice.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0303.wav|of these, sixty-three gave admittance during the entire year to less than twenty-five prisoners;
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0215.wav|It was so used for the date of the abolition of the Star Chamber in the sixteenth Charles the first
+/temp/e-liang/LJSpeech-1.1/wavs/LJ035-0084.wav|The minimum time required by Baker to park his motorcycle and reach the second-floor lunchroom was within three seconds of the time needed to walk
+/temp/e-liang/out/bea/sleepiness/sleepiness_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ038-0268.wav|the FBI refuses to draw any conclusion as to probability.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ027-0135.wav|which, briefly stated, is that individual development (ontogeny) recapitulates ancestral history (phylogeny).
+/temp/e-liang/LJSpeech-1.1/wavs/LJ001-0013.wav|than in the same operations with ugly ones.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0233.wav|Under the new rule visitors were not allowed to pass into the interior of the prison, but were detained between the grating.
+/temp/e-liang/out/jenie/aud_neutral/neutral_197-364_0292.wav|Here, in the midmorning, the first casualty occurred.
+/temp/e-liang/out/bea/sleepiness/sleepiness_253-280_0280.wav|I'll be out of my head in fifteen minutes.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ033-0082.wav|He carried a, quote, heavy brown bag, end quote.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ015-0185.wav|When the jury found a verdict of guilty he remained unmoved. He listened without emotion to the judge's well-merited censures,
+/temp/e-liang/out/josh/aud_am/amused_57-73_0062.wav|The men stared into each other's face.
+/temp/e-liang/out/bea/anger/anger_113-140_0132.wav|A cry of joy burst from Philip's lips.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ044-0127.wav|In reply Arnold Johnson advised Oswald that, while as an American citizen he had a right to participate in such organizations as he wished, quote,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ040-0114.wav|Relations soon became strained, however, so in late September Lee and his mother moved to their own apartment in the Bronx.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ037-0106.wav|Both ran to the sidewalk on the east side of Patton at a point about a half a block south of tenth.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ027-0108.wav|as well as useless muscles to move the ears and the skin, and also a very much reduced hairy covering over the surface of the body.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ018-0247.wav|William Roupell himself was brought as a principal witness to clench the case by a confession altogether against himself.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ034-0069.wav|was provided by the testimony of Charles Givens, who was the last known employee to see Oswald inside the building prior to the assassination.
+/temp/e-liang/out/bea/sleepiness/sleepiness_393-420_0406.wav|And that was the last of Francois and Perrault.
+/temp/e-liang/out/sam/aud_am/amused_197-224_0212.wav|Fresh cases, still able to walk, they clustered about the spokesman.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0247.wav|However, the vague requests for information which the Secret Service made
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0319.wav|provided only that their security was not jeopardized, and dependent upon the enforcement of another new rule,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0203.wav|The new jail had been in a great measure constructed by the prisoners themselves.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ050-0135.wav|According to Secretary Dillon,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ006-0198.wav|But this was not the only amusement. Most of the wards took in the daily papers,
+/temp/e-liang/out/jenie/aud_neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ023-0059.wav|In its Preamble, the Constitution states that it was intended to form a more perfect Union and promote the general welfare;
+/temp/e-liang/out/sam/aud_disgust/Disgust_197-224_0203.wav|They were following the shore of a lake.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ018-0283.wav|and by means of forged letters of credit and introduction from London, obtained large sums from continental banks, in Berlin,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ023-0106.wav|that something in the Constitution has compelled them regretfully to thwart the will of the people.
+/temp/e-liang/out/jenie/aud_sleep/sleepiness_281-308_0296.wav|Bassett was a fastidious man.
+/temp/e-liang/out/jenie/aud_am/amused_309-336_0326.wav|Cherokee identified himself with his instinct.
+/temp/e-liang/out/sam/aud_am/amused_169-196_0179.wav|Tomorrow I'm going after that bear, he said.
+/temp/e-liang/out/josh/aud_sleep/sleepiness_57-84_0073.wav|The promoter's eyes were heavy, with little puffy bags under them.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ010-0035.wav|Courvoisier might have lived a century earlier.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0184.wav|The Corporation had agreed to spend twenty thousand pounds on alterations, but sixty thousand pounds would suffice to reconstruct.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ034-0082.wav|None of the Depository employees is known to have seen Oswald again until after the shooting.
+/temp/e-liang/out/sam/aud_neut/neutral_141-168_0142.wav|Such things had occurred before, he told Philip.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ044-0166.wav|According to Marina Oswald, he thought that would help him when he got to Cuba.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0129.wav|has visited us here in Dallas, Texas, on November one. Agent James P. Hasty
+/temp/e-liang/LJSpeech-1.1/wavs/LJ018-0139.wav|Soon afterwards the inspectors of bank-notes at the Bank of England detected the presentation at the bank of spurious notes on genuine paper.
+/temp/e-liang/out/bea/anger/anger_309-336_0314.wav|Thus was momentum gained in the Younger World.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ006-0238.wav|"There was a disturbance in the transport yard yesterday evening, and the police were called in.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0216.wav|This latter was an ordeal which all dreaded, and many avoided by denying their faith.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0209.wav|The prisoners in the press yard had free access during the day to the yard and large day room;
+/temp/e-liang/LJSpeech-1.1/wavs/LJ011-0059.wav|There were doubts of his sanity.
+/temp/e-liang/out/sam/aud_neut/neutral_281-308_0290.wav|One by one the boys were captured.
+/temp/e-liang/out/sam/aud_am/amused_421-448_0427.wav|Enters now the psychology of the situation.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ028-0501.wav|Nor were the walls about the palace a great mass of dull brick masonry.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ022-0091.wav|This Allotment Division will consider all of the recommendations submitted to it
+/temp/e-liang/out/jenie/aud_anger/anger_393-420_0419.wav|The Portuguese boy passed the Hawaiian.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ043-0066.wav|Some of his acquaintances, feeling that Oswald tried to impress people with the fact that he had lived and worked in Russia, were led to the belief
+/temp/e-liang/out/sam/aud_anger/anger_367-392_0375.wav|The butchers and meat cutters refused to handle meat destined for unfair restaurants.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ030-0052.wav|with two collapsible jump seats between the front and rear seats.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ010-0124.wav|Five of the conspirators, Thistlewood, Ings, Brunt, Davidson, and Tidd, were sentenced to death,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ030-0017.wav|The President liked outdoor appearances because more people could see and hear him.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ032-0025.wav|the officers of Klein's discovered that a rifle bearing serial number C two seven six six had been shipped to one A. Hidell,
+/temp/e-liang/out/jenie/aud_sleep/sleepiness_29-56_0032.wav|Since then some mysterious force has been fighting us at every step.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0262.wav|The jail authorities often gave the highest, possibly undue, importance to the value of remunerative employment,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ041-0092.wav|an, quote, individual that you would brainwash, and quite easy, but I think once he believed in something, he stood in his beliefs, end quote.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0051.wav|A high wall fifteen feet in height divided the females' court-yard from the men's.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ021-0171.wav|Now that these people are coming out of their storm cellars, they forget that there ever was a storm.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0078.wav|The protection of the President must be thorough but inconspicuous to avoid even the suggestion of a garrison state.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ040-0149.wav|intense anxiety, shyness, feelings of awkwardness and insecurity, end quote.
+/temp/e-liang/out/bea/neutral/neutral_253-280_0269.wav|That's where they cut off the Scottish Chiefs and killed all hands.
+/temp/e-liang/out/josh/aud_sleep/sleepiness_29-56_0049.wav|Gregson was asleep when he re-entered the cabin.
+/temp/e-liang/out/sam/aud_disgust/disgust_393-420_0403.wav|His newborn cunning gave him poise and control.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ014-0061.wav|and Manning hoped to get some small Government appointment through his wife's interest.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ010-0291.wav|Pate was found guilty, and sentenced to seven years' transportation, the judge, Baron Alderson, abstaining from inflicting the penalty of whipping,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ029-0050.wav|A check of the geographic indexes there revealed no listing for any individual deemed to be a potential danger to the President
+/temp/e-liang/LJSpeech-1.1/wavs/LJ021-0050.wav|I sincerely hope that as a result
+/temp/e-liang/LJSpeech-1.1/wavs/LJ045-0074.wav|In the letter Marina Oswald stated that her husband had changed a great deal and that she was very lonely in the United States.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ050-0106.wav|to devise a practical system which has any reasonable possibility of revealing such malcontents.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ012-0191.wav|of atrocious murders perpetrated in Edinburgh by the miscreants Burke and Hare,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0078.wav|Nor were the misdemeanants and bail prisoners any longer separated from those whose crimes were of a more serious character.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ007-0069.wav|While admitting that he had had many difficulties to contend with,
+/temp/e-liang/out/bea/neutral/neutral_113-140_0135.wav|I am going to surprise father, and you will go with Pierre.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ036-0206.wav|again at twelve:forty-eight p.m., and again at twelve:fifty-five p.m.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0205.wav|A man dying of liver complaint lay on the cold stones without a bed or food to eat.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ026-0016.wav|They ingest solid proteinaceous food,
+/temp/e-liang/out/bea/sleepiness/sleepiness_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/temp/e-liang/out/sam/aud_anger/anger_197-224_0213.wav|Between him and the beach was the cane-grass fence of the compound.
+/temp/e-liang/out/sam/aud_sleep/sleepiness_141-168_0147.wav|A moment before he was intoxicated by a joy that was almost madness.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ008-0083.wav|Two cart-loads of faggots were piled about her, and after she had hung for half-an-hour the fire was kindled.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ017-0064.wav|he made use of the remarkable words, quote, If it is necessary for my soul's sake to confess this murder,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ022-0036.wav|Did you ever stop to think that there are, after all, only two positions in the nation
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0082.wav|The middle yard, as far as its limits would permit, was appropriated to felons and transports. The wards here were generally very crowded.
+/temp/e-liang/out/bea/anger/anger_57-84_0063.wav|Yes, it was a man who asked, a stranger.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ018-0287.wav|to which he was introduced by a well-known tailor in Saville Row.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ033-0156.wav|Oswald's palmprint on the bottom of the paper bag indicated, of course, that he had handled the bag.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ046-0240.wav|Bouck explained the failure to try to identify the individuals involved in the Stevenson incident after it occurred on the ground that
+/temp/e-liang/LJSpeech-1.1/wavs/LJ010-0220.wav|We then sent the old woman to open the door, and it proved to be some little boys who had knocked and ran away.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0014.wav|filthiness, severity, or neglect; many new dungeons had aggravated the evils against which his sagacity could not but remonstrate;
+/temp/e-liang/out/bea/anger/anger_197-224_0200.wav|He leapt again, and the club caught him once more.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ018-0335.wav|most violent in temper, and addicted to the most frightful language.
+/temp/e-liang/out/sam/aud_disgust/disgust_309-336_0315.wav|Saxon waited, for she knew a fresh idea had struck Billy.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ002-0172.wav|For this he was summoned before a magistrate, and sentenced as already stated.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ031-0134.wav|On one occasion Mrs. Johnson, accompanied by two Secret Service agents, left the room to see Mrs. Kennedy and Mrs. Connally.
+/temp/e-liang/out/sam/aud_disgust/Disgust_1-28_0011.wav|If I ever needed a fighter in my life I need one now.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0144.wav|the indiscriminate visitation of friends, and the almost unlimited admission of extra food, these more glaring defects had disappeared.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ036-0152.wav|This was the seven hundred block of North Beckley
+/temp/e-liang/LJSpeech-1.1/wavs/LJ020-0102.wav|A wise accommodation of parts and angles, and compactness in the adjustment of "must-be-dones"
+/temp/e-liang/LJSpeech-1.1/wavs/LJ011-0255.wav|Howard swore he would finish him, but proved the weaker of the two, and Mullay got him down on the floor.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ049-0060.wav|but to consider any untoward circumstances as serious and to afford the President maximum protection at all times.
+/temp/e-liang/out/bea/sleepiness/sleepiness_141-168_0167.wav|I was near the cabin, and saw you.
+/temp/e-liang/out/jenie/aud_sleep/sleepiness_393-420_0411.wav|It will break our hearts and our backs to hoist anchor by hand.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ032-0106.wav|end quote. Hidell was a fictitious president of an organization of which Oswald was the only member.
+/temp/e-liang/out/sam/aud_am/amused_29-56_0045.wav|He moved away as quietly as he had come.
+/temp/e-liang/out/jenie/aud_anger/anger_393-420_0409.wav|He could feel a new stir in the land.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ026-0074.wav|The gaseous matters (carbon dioxide, oxygen, nitrogen) enter the plant mainly by diffusion from the atmosphere,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ028-0264.wav|The women chosen were kept to make bread for the men; while the others were strangled that they might not consume the stores.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ008-0206.wav|and caused a number of stout additional barriers to be erected in front of the scaffold,
+/temp/e-liang/out/sam/aud_sleep/sleepiness_336-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ007-0200.wav|In the press-yard, the press-room and ward above it were parceled out into nine separate sleeping cells;
+/temp/e-liang/out/josh/aud_sleep/sleepiness_253_280_0278.wav|It would give me nervous prostration.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0121.wav|to which a total of upwards of one hundred thousand prisoners had been committed in the year, only twenty-three prisons were divided according to law;
+/temp/e-liang/out/jenie/aud_anger/anger_505-532_0516.wav|Also, there was awe in their faces.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ014-0033.wav|When her ruin was discovered her brother panted for revenge.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ013-0005.wav|One of the earliest of the big operators in fraudulent finance was Edward Beaumont Smith,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ009-0156.wav|"with a view," as he himself said, "to his professional studies."
+/temp/e-liang/LJSpeech-1.1/wavs/LJ032-0120.wav|Day continued to examine the rifle with the magnifying glass, looking for possible fingerprints.
+/temp/e-liang/out/sam/aud_sleep/sleepiness_393-420_0395.wav|As for himself, weren't the street railway earnings increasing steadily.
+/temp/e-liang/out/jenie/aud_am/amused_57-84_0078.wav|Then, and at supper, he tried to fathom her.
+/temp/e-liang/out/sam/aud_disgust/disgust_449-476_0474.wav|I sailed third mate in the little Vampire before you were born.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ039-0004.wav|Chapter four. The Assassin: Part eight.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0110.wav|and so passing by the roof down into the garden and on to freedom.
+/temp/e-liang/out/jenie/aud_disgust/disgust_29-56_0045.wav|He moved away as quietly as he had come.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ013-0176.wav|also the jewel-box and note-case, from the latter of which was abstracted a ten-pound note known to have been in the possession of the deceased.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ012-0174.wav|Thurtell was a gambler, and Weare had won a good deal of money from him.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ008-0004.wav|The reasons for this change were fully set forth in a previous chapter.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ049-0014.wav|The Commission regards such impromptu stops as presenting an unnecessary danger,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ038-0228.wav|and into downtown Dallas through the Triple Underpass.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ030-0187.wav|When he heard the same noise again, Greer glanced over his shoulder and saw Governor Connally fall.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ003-0211.wav|They were never left quite alone for fear of suicide, and for the same reason they were searched for weapons or poisons.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ005-0246.wav|where "prisoners before and after trial are under no efficient superintendence," and where "there was no restraint, or attempt at restraint."
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0015.wav|The first stone of Pentonville prison was laid on the tenth April, eighteen forty, by the Marquis of Normanby,
+/temp/e-liang/LJSpeech-1.1/wavs/LJ039-0212.wav|Frazier said, quote, The fact that the crosshairs are set high would actually compensate for any lead which had to be taken
+/temp/e-liang/LJSpeech-1.1/wavs/LJ015-0171.wav|but finding he could not escape, he said he would resign his post, and leaving the boardroom, disappeared.
+/temp/e-liang/out/jenie/aud_sleep/sleepiness_337-360_0360.wav|But he no longer cared quite so much for that form of diversion.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ004-0240.wav|He left Newgate utterly corrupted, and after lapsing into crime, soon returned with a very different character.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ047-0119.wav|Neither these discrepancies nor the fact that Oswald had initiated the FBI interview
+/temp/e-liang/out/bea/sleepiness/sleepiness_365-392_0373.wav|Points of view, new ideas, life.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ031-0148.wav|Immediately after President Kennedy's stretcher was wheeled into trauma room one, Secret Service agents took positions at the door of the small emergency room.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ036-0049.wav|And, after we got past Akard, at Murphy -- I figured it out. Let's see. I don't know for sure.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ049-0210.wav|for examples to a determination of the optimum organization of the President's protection.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ019-0337.wav|both in controlling his subordinates and in protecting the prisoners from petty tyranny and oppression, every one of whom he was to see once every twenty-four hours.
+/temp/e-liang/LJSpeech-1.1/wavs/LJ034-0182.wav|The person in the window was a white man and, quote, looked to me like he was looking straight at the Triple Underpass, end quote, down Elm Street.
+/temp/e-liang/out/sam/aud_sleep/sleepiness_309-336_0336.wav|So unexpected was my charge that I knocked him off his feet.
+/temp/e-liang/out/bea/amused/amused_253-280_0259.wav|Think of investing in such an adventure.

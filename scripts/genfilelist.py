@@ -19,15 +19,15 @@ import numpy as np
 #####
 # Params
 
-FILENAMEPREFIX = 'i_am_a_screw_up_and_forgot_to_set_this' # DO NOT COMMIT THIS UNCOMMENTED
+# FILENAMEPREFIX = 'i_am_a_screw_up_and_forgot_to_set_this' # DO NOT COMMIT THIS UNCOMMENTED
 # FILENAMEPREFIX = 'emovdb'
-# FILENAMEPREFIX = 'emovdbwithljs'
+FILENAMEPREFIX = 'emovdbwithljs'
 # FILENAMEPREFIX = 'emovdbwithoutamused'
 
 INCLUDE_EMOVDB = True
-INCLUDE_LJS = False
+INCLUDE_LJS = True
 
-SHOULD_REMOVE_AMUSED = True
+SHOULD_REMOVE_AMUSED = False
 
 SPLITS = [(0.98, "train"), (0.02, "val")]
 
@@ -66,7 +66,7 @@ def get_ljs_lines():
 
     def metadata_line_to_dataset_line(line):
         [lj_id, _, normalized_transcript] = line.split('|') # From LJS README, each line contains ID, Transcription, Normalized Transcript
-        filepath = os.path.join(LJS_FOLDER, f"{lj_id}.wav")
+        filepath = os.path.join(LJS_FOLDER, "wavs", f"{lj_id}.wav")
         return f"{filepath}|{normalized_transcript}"
     return list(map(metadata_line_to_dataset_line, metadata_lines))
 
