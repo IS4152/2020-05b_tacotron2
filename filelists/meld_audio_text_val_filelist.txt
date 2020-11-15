@@ -1,0 +1,125 @@
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia222_utt4.final.wav|I didnt know you and Carol were getting divorced, Im sorry.
+/temp/e-liang/MELD.Raw/train_splits/dia590_utt16.final.wav|Well okay but I have two tickets to the ballroom dance finals.
+/temp/e-liang/MELD.Raw/train_splits/dia531_utt9.final.wav|About paleontology.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia25_utt1.final.wav|I know, it was amazing! I mean, we totally nailed it, it was beautiful.
+/temp/e-liang/MELD.Raw/train_splits/dia236_utt3.final.wav|Well, I dont have to buy that, "Im with stupid" T-shirt anymore.
+/temp/e-liang/MELD.Raw/train_splits/dia900_utt3.final.wav|Umm, you make something up.
+/temp/e-liang/MELD.Raw/train_splits/dia577_utt0.final.wav|Okay, some tricks of the trade.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia28_utt7.final.wav|Its worth the pain.  Yknow what, you know what? Its not.
+/temp/e-liang/MELD.Raw/train_splits/dia846_utt2.final.wav|They're gonna call her Chandler.
+/temp/e-liang/MELD.Raw/train_splits/dia796_utt18.final.wav|Thats a picture of your daughter, isnt it,  well shes lovely.
+/temp/e-liang/MELD.Raw/train_splits/dia85_utt0.final.wav|Sorry I'm late, but I left late.
+/temp/e-liang/MELD.Raw/train_splits/dia973_utt10.final.wav|Okay, all right, so, your in a meadow, millions of stars in the sky....
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia53_utt2.final.wav|Actually, Im not here to complement the chef.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia58_utt6.final.wav|If you have the big apartment you have to deal with people coming over all the time.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia167_utt2.final.wav|Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia234_utt9.final.wav|Maybe.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia180_utt9.final.wav|Not just Janice, Janice in labor, contracting and everything.
+/temp/e-liang/MELD.Raw/train_splits/dia220_utt6.final.wav|hormones, yeah.
+/temp/e-liang/MELD.Raw/train_splits/dia536_utt8.final.wav|Back then, I thought that I would never, ever get the chance to go out with a Chip Matthews, and now hes-hes called me up and asked me out.
+/temp/e-liang/MELD.Raw/train_splits/dia674_utt1.final.wav|But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.
+/temp/e-liang/MELD.Raw/train_splits/dia884_utt12.final.wav|What is the big deal? Its not like were exclusive.
+/temp/e-liang/MELD.Raw/train_splits/dia412_utt6.final.wav|Stunning entertainment center. Fine,  fine Italian craftsmanship.
+/temp/e-liang/MELD.Raw/train_splits/dia808_utt1.final.wav|Now Monica, I know youre upset, but dont forget.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia40_utt8.final.wav|Hey, hang up! You get food poisoning just talkin to that place.
+/temp/e-liang/MELD.Raw/train_splits/dia736_utt5.final.wav|Me too.
+/temp/e-liang/MELD.Raw/train_splits/dia442_utt4.final.wav|We are bad people.
+/temp/e-liang/MELD.Raw/train_splits/dia67_utt9.final.wav|Hero, I uh, I dont knowwell, all right.
+/temp/e-liang/MELD.Raw/train_splits/dia201_utt2.final.wav|Oh good.
+/temp/e-liang/MELD.Raw/train_splits/dia645_utt3.final.wav|Ive read all kinds of books on pregnancy and giving birth, but I-I just didnt think to read the part about what to do when the baby comes.
+/temp/e-liang/MELD.Raw/train_splits/dia314_utt12.final.wav|Whno, but yknow who did stop in here looking for ya, Tennille.
+/temp/e-liang/MELD.Raw/train_splits/dia836_utt2.final.wav|Ohhh. I thought it was like Long Island.
+/temp/e-liang/MELD.Raw/train_splits/dia551_utt2.final.wav|Oh thats all right. Im still full from your homemade potato chips.
+/temp/e-liang/MELD.Raw/train_splits/dia613_utt8.final.wav|Yes!!  Oh.
+/temp/e-liang/MELD.Raw/train_splits/dia507_utt3.final.wav|No, cause I made lasagne.
+/temp/e-liang/MELD.Raw/train_splits/dia355_utt0.final.wav|Oh, I'm sorry.
+/temp/e-liang/MELD.Raw/train_splits/dia371_utt7.final.wav|Oh yeah, picked a guy, 37135.
+/temp/e-liang/MELD.Raw/train_splits/dia902_utt5.final.wav|I really wish that you wouldnt.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia121_utt2.final.wav|No you cant.
+/temp/e-liang/MELD.Raw/train_splits/dia572_utt0.final.wav|Well they have uh, some unusual pet names for each other.
+/temp/e-liang/MELD.Raw/train_splits/dia342_utt19.final.wav|I dont think the contestants are supposed to speak to each other.
+/temp/e-liang/MELD.Raw/train_splits/dia718_utt2.final.wav|The movie theatre, you used to come in all the time.
+/temp/e-liang/MELD.Raw/train_splits/dia193_utt4.final.wav|I..., a jingle? No, no-no-no, no.
+/temp/e-liang/MELD.Raw/train_splits/dia415_utt3.final.wav|Okay, I'm gonna ask you questions and you answer real quick.
+/temp/e-liang/MELD.Raw/train_splits/dia498_utt1.final.wav|Lets try a lookof far offwonderment.
+/temp/e-liang/MELD.Raw/train_splits/dia384_utt0.final.wav|Oh hello.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia64_utt10.final.wav|Guys thank you very much but neither of you is marrying us.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia72_utt3.final.wav|Im sorry sir, I dont understand.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia189_utt1.final.wav|Maybe we should check the trash chute.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia76_utt5.final.wav|It was an amazing night.
+/temp/e-liang/MELD.Raw/train_splits/dia1013_utt0.final.wav|Hey, theres uh, some people outside, askin about candy.
+/temp/e-liang/MELD.Raw/train_splits/dia385_utt0.final.wav|Well, thats not something a girl wants to hear.
+/temp/e-liang/MELD.Raw/train_splits/dia367_utt13.final.wav|Now, after you receive the doubling bonus, you get uh, one card.
+/temp/e-liang/MELD.Raw/train_splits/dia219_utt11.final.wav|And of course, the Indians.
+/temp/e-liang/MELD.Raw/train_splits/dia109_utt14.final.wav|Well, if you think it will help.
+/temp/e-liang/MELD.Raw/train_splits/dia730_utt8.final.wav|You should take a walk down fifth to the Saint Patrick's Cathedral and there    there's this great little pastry shop that she'd love.
+/temp/e-liang/MELD.Raw/train_splits/dia929_utt1.final.wav|Hey, its your Thanksgiving too, y'know, instead of watching football, you could help.
+/temp/e-liang/MELD.Raw/train_splits/dia474_utt6.final.wav|Well, we called everyone in your phone book and a bunch of people came, but it took us so long to get you here that they-they had to leave.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia89_utt4.final.wav|Yeah, Rach, I think youre handling that really well.
+/temp/e-liang/MELD.Raw/train_splits/dia128_utt8.final.wav|Okay.
+/temp/e-liang/MELD.Raw/train_splits/dia733_utt9.final.wav|Always.
+/temp/e-liang/MELD.Raw/train_splits/dia300_utt7.final.wav|The Celtics.
+/temp/e-liang/MELD.Raw/train_splits/dia256_utt4.final.wav|I mean I wish I were a seahorse.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia32_utt1.final.wav|Oh yeah, I'm sure.  And all of a sudden his hands weren't the problem anymore.
+/temp/e-liang/MELD.Raw/train_splits/dia986_utt6.final.wav|She might be able to do better.
+/temp/e-liang/MELD.Raw/train_splits/dia767_utt8.final.wav|The laundry song that we sing.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia9_utt2.final.wav|Oh, and in case you were wondering, those are my legs on the new James Bond poster.
+/temp/e-liang/MELD.Raw/train_splits/dia1016_utt2.final.wav|I mean its pretty unbelievable y'know, I mean they just took off, took off without even looking back.
+/temp/e-liang/MELD.Raw/train_splits/dia504_utt4.final.wav|No just, nobody press on my stomach.
+/temp/e-liang/MELD.Raw/train_splits/dia193_utt3.final.wav|Y'know you could totally sell this. Itd be perfect for like umm, a kitty litter campaign.
+/temp/e-liang/MELD.Raw/train_splits/dia50_utt3.final.wav|All right.
+/temp/e-liang/MELD.Raw/train_splits/dia531_utt5.final.wav|I was really nervous and the accent just uh, just came out.
+/temp/e-liang/MELD.Raw/train_splits/dia298_utt4.final.wav|Hey! Its starting to snow.
+/temp/e-liang/MELD.Raw/train_splits/dia836_utt8.final.wav|Yeah. I realized it about a half-hour ago but I didn't want to say anything 'cause I didn't want to jinx it.
+/temp/e-liang/MELD.Raw/train_splits/dia811_utt6.final.wav|As were you.
+/temp/e-liang/MELD.Raw/train_splits/dia849_utt6.final.wav|Ben is way cuter than that kid.
+/temp/e-liang/MELD.Raw/train_splits/dia306_utt3.final.wav|Oh God, Ross I am so sorry.
+/temp/e-liang/MELD.Raw/train_splits/dia832_utt8.final.wav|No, answer his.
+/temp/e-liang/MELD.Raw/train_splits/dia611_utt14.final.wav|Ohhh... I'm fine.
+/temp/e-liang/MELD.Raw/train_splits/dia279_utt4.final.wav|Thats easy for you to say, you werent almost just killed.
+/temp/e-liang/MELD.Raw/train_splits/dia229_utt2.final.wav|Well, goodbye Chandler. I had a great blackout.  See ya.
+/temp/e-liang/MELD.Raw/train_splits/dia703_utt2.final.wav|Cleveland.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia234_utt3.final.wav|Thank you.
+/temp/e-liang/MELD.Raw/train_splits/dia759_utt7.final.wav|Here in Chelsea.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia248_utt0.final.wav|No.
+/temp/e-liang/MELD.Raw/train_splits/dia973_utt2.final.wav|Okay, now close you eyes, and think of a happy place.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia261_utt8.final.wav|All right, stop it. Now youre just doing it to freak me out.
+/temp/e-liang/MELD.Raw/train_splits/dia724_utt0.final.wav|Let's see.
+/temp/e-liang/MELD.Raw/train_splits/dia183_utt13.final.wav|Yeah, well, ya know, I'm kind of spooky that way. Wooo.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia171_utt0.final.wav|Hmmm... this is so nice.
+/temp/e-liang/MELD.Raw/train_splits/dia728_utt6.final.wav|And now I have seen her naked.
+/temp/e-liang/MELD.Raw/train_splits/dia896_utt0.final.wav|Luckily, the guy she settled for cant hear what youre talking about.
+/temp/e-liang/MELD.Raw/train_splits/dia336_utt21.final.wav|Me! On my computer.
+/temp/e-liang/MELD.Raw/train_splits/dia79_utt7.final.wav|All right, dont waste it, I mean its still food.
+/temp/e-liang/MELD.Raw/train_splits/dia66_utt12.final.wav|No youre not, youre wondering which cushion it is.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia33_utt8.final.wav|You are beautiful.
+/temp/e-liang/MELD.Raw/train_splits/dia1031_utt0.final.wav|Oh, one other thing. Hoshi thinks that you being ringside may have affected my concentration.
+/temp/e-liang/MELD.Raw/train_splits/dia844_utt15.final.wav|Okay, good-good for you.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia237_utt2.final.wav|Y'know, so I don't read as many important books as you do, and I don't write trick poems that seem to be about one thing but are actually about something else.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia23_utt0.final.wav|Are you insane? I mean Joey, is going to kill you, hes actually going to kill you dead.
+/temp/e-liang/MELD.Raw/train_splits/dia434_utt4.final.wav|On the other hand in um, in about seven months youre gonna have something that youre gonna love more than any guy youve ever gone out with.
+/temp/e-liang/MELD.Raw/train_splits/dia622_utt9.final.wav|This is completely normal, around the fourth month your hormones start going crazy.
+/temp/e-liang/MELD.Raw/train_splits/dia81_utt2.final.wav|He's planning your birthday party.
+/temp/e-liang/MELD.Raw/train_splits/dia190_utt5.final.wav|Yknow, we dont have to imagine.
+/temp/e-liang/MELD.Raw/train_splits/dia686_utt4.final.wav|Nobody wants to do it? All right, Ill do it myself.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia109_utt7.final.wav|I mean youd think hed be worried about me not showing up at his club.
+/temp/e-liang/MELD.Raw/train_splits/dia69_utt2.final.wav|No, no, I'm still working on mine.
+/temp/e-liang/MELD.Raw/train_splits/dia469_utt1.final.wav|Julies cervix is dilated a seven centimeters, thats about four fingers. The doctor let me feel it myself.
+/temp/e-liang/MELD.Raw/train_splits/dia6_utt15.final.wav|Im sorry.
+/temp/e-liang/MELD.Raw/train_splits/dia973_utt14.final.wav|All right, betting and wagering of any kind, are, I'm sure, not permitted in the happy place.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia89_utt1.final.wav|Its 6:00.
+/temp/e-liang/MELD.Raw/train_splits/dia261_utt6.final.wav|Well umm, do you wanna get something to eat? Im kinda hungry.
+/temp/e-liang/MELD.Raw/train_splits/dia167_utt3.final.wav|I like her.
+/temp/e-liang/MELD.Raw/train_splits/dia956_utt11.final.wav|I think this can go somewhere.
+/temp/e-liang/MELD.Raw/train_splits/dia237_utt6.final.wav|Whoa, whoa, whoa, the poem is not about you.
+/temp/e-liang/MELD.Raw/train_splits/dia531_utt4.final.wav|Im from Long Island.
+/temp/e-liang/MELD.Raw/train_splits/dia293_utt4.final.wav|Thanks, but I kinda have a problem to deal with here.
+/temp/e-liang/MELD.Raw/train_splits/dia856_utt2.final.wav|Estelle said I didn't get it.
+/temp/e-liang/MELD.Raw/train_splits/dia384_utt1.final.wav|Oh, its you. I see you everywhere. Im Jim, Jim Nelson.
+/temp/e-liang/MELD.Raw/train_splits/dia404_utt6.final.wav|No, Chandler.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia168_utt8.final.wav|So Okay, look-look umm, let's just go downstairs, we'll have some fun, and you will forget all about it.
+/temp/e-liang/MELD.Raw/dev_splits_complete/dia30_utt11.final.wav|Umm, but I think if you give me umm, one chance I can, I can change your mind.
+/temp/e-liang/MELD.Raw/train_splits/dia422_utt5.final.wav|Okay, dont worry. Youre ready.
+/temp/e-liang/MELD.Raw/train_splits/dia275_utt9.final.wav|Oh my God, it's so huge, but you just have to promise me that you cannot tell anyone.
+/temp/e-liang/MELD.Raw/train_splits/dia1016_utt21.final.wav|Yeah, youre right.
+/temp/e-liang/MELD.Raw/output_repeated_splits_test/dia49_utt3.final.wav|Well Ross, you be careful now. You dont want to get a reputation as yknow Professor McNailshisstudents.

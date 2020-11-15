@@ -198,7 +198,8 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
 
     waveglow_path = 'waveglow_256channels_universal_v5.pt'
     waveglow = torch.load(waveglow_path)['model']
-    waveglow.cuda().eval().float()
+    # waveglow.cuda().eval().float()
+    waveglow.cuda().eval().half()
     for k in waveglow.convinv:
         k.float()
 

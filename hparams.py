@@ -14,7 +14,7 @@ def create_hparams(hparams_string=None, verbose=False):
         iters_per_checkpoint=500,
         seed=1234,
         dynamic_loss_scaling=True,
-        fp16_run=False,
+        fp16_run=True,
         distributed_run=False,
         dist_backend="nccl",
         dist_url="tcp://localhost:54321",
@@ -26,8 +26,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/emovdb_audio_text_train_filelist.txt',
-        validation_files='filelists/emovdb_audio_text_val_filelist.txt',
+        training_files='filelists/iemocap_audio_text_train_filelist.txt',
+        validation_files='filelists/iemocap_audio_text_val_filelist.txt',
         text_cleaners=['english_cleaners'],
 
         ################################
@@ -83,7 +83,9 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=64,
+        # batch_size=64,
+        batch_size=32,
+        # batch_size=4,
         mask_padding=True  # set model's padded outputs to padded values
     )
 

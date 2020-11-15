@@ -13,6 +13,7 @@ import math
 import os
 import random
 import re
+import csv
 
 import numpy as np
 
@@ -21,19 +22,27 @@ import numpy as np
 
 # FILENAMEPREFIX = 'i_am_a_screw_up_and_forgot_to_set_this' # DO NOT COMMIT THIS UNCOMMENTED
 # FILENAMEPREFIX = 'emovdb'
-FILENAMEPREFIX = 'emovdbwithljs'
+# FILENAMEPREFIX = 'emovdbwithljs'
+# FILENAMEPREFIX = 'emovdbbutoneonly'
+# FILENAMEPREFIX = 'emovdbwithljsbutless'
 # FILENAMEPREFIX = 'emovdbwithoutamused'
+# FILENAMEPREFIX = 'meld'
+FILENAMEPREFIX = 'iemocap'
 
-INCLUDE_EMOVDB = True
-INCLUDE_LJS = True
+INCLUDE_EMOVDB = False
+INCLUDE_LJS = False
+INCLUDE_MELD = False
+INCLUDE_IEMOCAP = True
 
-SHOULD_REMOVE_AMUSED = False
+# SHOULD_REMOVE_AMUSED = True
 
 SPLITS = [(0.98, "train"), (0.02, "val")]
 
 EMOVDB_FILES = sorted(glob.glob('/temp/e-liang/out/*/*/*'))
 EMOVDB_CMUARCTIC_PATH = '../cmuarctic.data' # Transcripts for emovdb dataset located in repo root
 LJS_FOLDER = '/temp/e-liang/LJSpeech-1.1'
+MELD_FOLDER = '/temp/e-liang/MELD.Raw'
+IEMOCAP_FOLDER = '/temp/e-liang/IEMOCAP_full_release'
 OUT_FOLDER = '../filelists/' # Folder located in repo root
 
 #####
@@ -54,8 +63,9 @@ def get_emovdb_lines():
     p = re.compile('.*_0(\d{3}).wav')
     all_emovdb_lines = [f"{os.path.abspath(file)}|{dataLookup[p.match(file).group(1)]}\n" for file in EMOVDB_FILES if p.match(file) is not None]
 
-    if SHOULD_REMOVE_AMUSED:
-        all_emovdb_lines = [line for line in all_emovdb_lines if '/amused/' not in line and '/aud_am/' not in line]
+    # if SHOULD_REMOVE_AMUSED:
+    #     all_emovdb_lines = [line for line in all_emovdb_lines if '/amused/' not in line and '/aud_am/' not in line]
+    all_emovdb_lines = [line for line in all_emovdb_lines if '/sam/' in line]
 
     return all_emovdb_lines
 
@@ -70,11 +80,45 @@ def get_ljs_lines():
         return f"{filepath}|{normalized_transcript}"
     return list(map(metadata_line_to_dataset_line, metadata_lines))
 
+def get_meld_lines():
+    # Only use train split
+    dataLookup = {}
+    with open(os.path.join(MELD_FOLDER, 'train_sent_emo.csv'), 'r', newline='') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            cleanedUtterance = row['Utterance'].encode('ascii', errors='ignore').decode()
+            dataLookup[(row['Dialogue_ID'], row['Utterance_ID'])] = cleanedUtterance
+
+    p = re.compile('dia(\d+)_utt(\d+)\.final\.wav$')
+    meld_files = [(file, os.path.basename(file)) for file in glob.glob(os.path.join(MELD_FOLDER, '*', '*.final.wav'))]
+    all_meld_lines = [f"{os.path.abspath(file)}|{dataLookup[(p.match(basename).group(1), p.match(basename).group(2))]}\n" for (file, basename) in meld_files if p.match(basename) is not None and (p.match(basename).group(1), p.match(basename).group(2)) in dataLookup]
+    terminated_lines = [line for line in all_meld_lines if line.endswith('.\n')]
+    return terminated_lines 
+
+def get_iemocap_lines():
+    dataLookup = {}
+    p = re.compile('(\w+?) \[.+?\]: (.*)$')
+    for file in glob.glob(os.path.join(IEMOCAP_FOLDER, 'Session*', 'dialog', 'transcriptions', '*.txt')):
+        with open(file, 'r') as f:
+            lines = f.readlines()
+            for line in lines:
+                match = p.match(line)
+                if match is not None:
+                    dataLookup[f"{match.group(1)}.wav"] = match.group(2)
+
+    iemocap_files = [file for file in glob.glob(os.path.join(IEMOCAP_FOLDER, 'Session*', 'sentences', 'wav', '*', '*.wav'))]
+    all_iemocap_lines = [f"{os.path.abspath(file)}|{dataLookup[os.path.basename(file)]}\n" for file in iemocap_files]
+    return all_iemocap_lines
+
 dataset_lines = []
 if INCLUDE_EMOVDB:
     dataset_lines = get_emovdb_lines() + dataset_lines
 if INCLUDE_LJS:
     dataset_lines = get_ljs_lines() + dataset_lines
+if INCLUDE_MELD:
+    dataset_lines = get_meld_lines() + dataset_lines
+if INCLUDE_IEMOCAP:
+    dataset_lines = get_iemocap_lines() + dataset_lines
 random.shuffle(dataset_lines)
 
 splitLens = [math.floor(split * len(dataset_lines)) for (split, _) in SPLITS]
